@@ -63,7 +63,7 @@ class DetailsView extends FormView {
 	}
 	
 	function PerformQuery(&$form){
-		$dbhandle = &$form->a2billing->DBHandle();
+		$dbhandle = &$form->sess_object->DBHandle();
 		if ($form->FG_DEBUG>3)
 			echo "<div class=\"debug\">Details! Building query..</div>";
 			

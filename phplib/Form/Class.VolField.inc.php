@@ -21,7 +21,7 @@ class IntVolField extends IntField{
 		$val = $form->getpost_dirty($this->fieldname);
 		$val_old = $form->getpost_dirty($this->fieldname.'_old');
 		if ($val != $val_old)
-			$upd_arr[] = str_dbparams($form->a2billing->DBHandle(),
+			$upd_arr[] = str_dbparams($form->sess_object->DBHandle(),
 			    "$this->fieldname = %#1 + ($this->fieldname - %#2)",
 			     array($val,$val_old));
 	}
@@ -58,7 +58,7 @@ class FloatVolField extends FloatField{
 		$val = $form->getpost_dirty($this->fieldname);
 		$val_old = $form->getpost_dirty($this->fieldname.'_old');
 		if ($val != $val_old)
-			$upd_arr[] = str_dbparams($form->a2billing->DBHandle(),
+			$upd_arr[] = str_dbparams($form->sess_object->DBHandle(),
 			    "$this->fieldname = %#1 + ($this->fieldname - %#2)",
 			     array($val,$val_old));
 	}

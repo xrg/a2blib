@@ -115,7 +115,7 @@ class Import2View extends FormView {
 	
 	public function PerformAction(&$form){
 		$dbg_elem = new DbgElem();
-		$dbhandle = $form->a2billing->DBHandle();
+		$dbhandle = $form->sess_object->DBHandle();
 		if (!isset($this->importEngine)){
 			$this->importEngine = new $this->impEngClass();
 			$this->importEngine->Init(array_merge(

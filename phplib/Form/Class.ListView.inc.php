@@ -94,7 +94,7 @@ class ListView extends FormView {
 	public function Render(&$form){
 		$this->RenderHead();
 	// For convenience, ref the dbhandle locally
-	$dbhandle = &$form->a2billing->DBHandle();
+	$dbhandle = &$form->sess_object->DBHandle();
 		
 	$res = $this->performQuery($form,$dbhandle);
 	if (!$res)
@@ -152,7 +152,7 @@ class ListView extends FormView {
 			
 			$res_count = null;
 			if (!empty($this->count_query)) {
-				$dbhandle = $form->a2billing->DBHandle();
+				$dbhandle = $form->sess_object->DBHandle();
 				if ($form->FG_DEBUG>3)
 					echo "<div class=\"debug\">Count Query: " .$this->count_query . "\n</div>\n";
 				$tmpres= $dbhandle->Execute($this->count_query);

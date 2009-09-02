@@ -87,7 +87,7 @@ class ListSumView extends ListView {
 	public function Render(&$form){
 		$this->RenderHead();
 	// For convenience, ref the dbhandle locally
-	$dbhandle = &$form->a2billing->DBHandle();
+	$dbhandle = &$form->sess_object->DBHandle();
 		
 	$res = $this->performQuery($form,$dbhandle);
 	if (!$res)

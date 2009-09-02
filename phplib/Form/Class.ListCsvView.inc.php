@@ -8,7 +8,7 @@ class ListCsvView extends ListView {
 public function RenderSpecial($rmode,&$form, &$robj){
 	if ($rmode!='csv') return;
 	
-	$dbhandle = &$form->a2billing->DBHandle();
+	$dbhandle = &$form->sess_object->DBHandle();
 		
 	$res = $this->performQuery($form,$dbhandle,$rmode);
 	if (!$res)

@@ -11,7 +11,7 @@ class ActionForm extends ElemBase {
 	public $prefix = '';
 	protected $action;
 	
-	public $a2billing; ///< Reference to an a2billing instance
+	public $sess_object; ///< Reference to an sess_object instance
 		
 	// model-related vars
 		/** The most important var: hold one object per field to be viewed/edited */
@@ -44,15 +44,15 @@ class ActionForm extends ElemBase {
 		}
 	}
 	
-	function init($sA2Billing= null){
+	function init($ssess_object= null){
 		if (!$this->rights_checked){
 			error_log("Attempt to use ActionForm w/o rights!");
 			die();
 		}
-		if ($sA2Billing)
-			$this->a2billing= &$sA2Billing;
+		if ($ssess_object)
+			$this->sess_object= &$ssess_object;
 		else
-			$this->a2billing= &A2Billing::instance();
+			$this->sess_object= &ASession::instance();
 			
 		if (isset($GLOBALS['FG_DEBUG']))
 			$this->FG_DEBUG = $GLOBALS['FG_DEBUG'];

@@ -114,7 +114,7 @@ class RevRef extends BaseField {
 			$refkey = $this->refkey ;
 		else
 			$refkey = $this->refid;
-		$DBHandle=$form->a2billing->DBHandle();
+		$DBHandle=$form->sess_object->DBHandle();
 		?><input type="hidden" name="<?= $form->prefix.$this->fieldname . '_action' ?>" value="">
 		<?php
 		$QUERY = str_dbparams($DBHandle, "SELECT $refkey, $refname FROM $this->reftable ".
@@ -287,7 +287,7 @@ class RevRefTxt extends RevRef {
 	/** Called by the framework when we have requested an 'object-edit'
 	*/
 	public function PerformObjEdit(&$form){
-		$DBHandle=$form->a2billing->DBHandle();
+		$DBHandle=$form->sess_object->DBHandle();
 		$oeaction = /* $form-> */ getpost_single($this->fieldname.'_action');
 		$oeid = /* $form-> */ getpost_single($this->localkey);
 		

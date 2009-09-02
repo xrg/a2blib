@@ -91,7 +91,7 @@ class MoneyField extends FloatField {
 
 	public function DispAddEdit($val,&$form){
 	?><input type="text" name="<?= $form->prefix.$this->fieldname ?>" value="<?=
-		htmlspecialchars((float)$val);?>" />&nbsp;&nbsp;<?= $form->a2billing->currency ?>
+		htmlspecialchars((float)$val);?>" />&nbsp;&nbsp;<?= $form->sess_object->currency ?>
 	<div class="descr"><?= $this->editDescr?></div>
 	<?php
 	}
@@ -105,7 +105,7 @@ class MoneyField extends FloatField {
 			$fld= $this->fieldexpr;
 		else
 			$fld = $this->fieldname;
-		return "format_currency($fld, '". A2Billing::instance()->currency ."') AS " .
+		return "format_currency($fld, '". ASession::instance()->currency ."') AS " .
 			$this->fieldname;
 	}
 	
@@ -129,7 +129,7 @@ class MoneyField extends FloatField {
 				$fields[] = $sum_fns[$this->fieldname] ."($fld) AS ". $this->fieldname;
 			
 			$fields_out[] = array("format_currency($this->fieldname, '".
-				$form->a2billing->currency ."')", $this->fieldname);
+				$form->sess_object->currency ."')", $this->fieldname);
 			
 		}
 		
@@ -146,7 +146,7 @@ class MoneyField extends FloatField {
 			$fld= $this->fieldexpr;
 		else
 			$fld = $this->fieldname;
-		return "conv_currency_from($fld, '". A2Billing::instance()->currency ."') AS " .
+		return "conv_currency_from($fld, '". ASession::instance()->currency ."') AS " .
 			$this->fieldname;
 	}
 
@@ -155,17 +155,17 @@ class MoneyField extends FloatField {
 			return;
 		$ins_arr[] = array($this->fieldname,
 			$this->buildValue($form->getpost_dirty($this->fieldname),$form),
-			str_dbparams($form->a2billing->DBHandle(), "conv_currency_to( ?, %1)",
-				array($form->a2billing->currency)));
+			str_dbparams($form->sess_object->DBHandle(), "conv_currency_to( ?, %1)",
+				array($form->sess_object->currency)));
 	}
 
 	public function buildUpdate(&$ins_arr,&$form){
 		if (!$this->does_edit)
 			return;
-		$ins_arr[] = str_dbparams($form->a2billing->DBHandle(),
+		$ins_arr[] = str_dbparams($form->sess_object->DBHandle(),
 			$this->fieldname . " = conv_currency_to( %1, %2)",
 			array($this->buildValue($form->getpost_dirty($this->fieldname),$form),
-				$form->a2billing->currency));
+				$form->sess_object->currency));
 	}
 	
 	public function getOrder(&$form){
@@ -183,7 +183,7 @@ class MoneyField2 extends MoneyField {
 			$fld= $this->fieldexpr;
 		else
 			$fld = $this->fieldname;
-		return "format_currency2($fld, '". A2Billing::instance()->currency ."') AS " .
+		return "format_currency2($fld, '". ASession::instance()->currency ."') AS " .
 			$this->fieldname;
 	}
 	
@@ -207,7 +207,7 @@ class MoneyField2 extends MoneyField {
 				$fields[] = $sum_fns[$this->fieldname] ."($fld) AS ". $this->fieldname;
 			
 			$fields_out[] = array("format_currency2($this->fieldname, '".
-				$form->a2billing->currency ."')", $this->fieldname);
+				$form->sess_object->currency ."')", $this->fieldname);
 			
 		}
 		

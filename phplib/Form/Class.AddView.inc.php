@@ -5,7 +5,7 @@ class AskAddView extends FormView {
 	protected $nb_fragment = 0;
 	
 	public function Render(&$form){
-		$dbhandle = &$form->a2billing->DBHandle();
+		$dbhandle = &$form->sess_object->DBHandle();
 	?>
 	<form action=<?= $_SERVER['PHP_SELF']?> method=post name="<?= $form->prefix?>Frm" id="<?= $form->prefix ?>Frm">
 	<?php		$hidden_arr = array( 'action' => 'add', 'sub_action' => '');
@@ -90,7 +90,7 @@ class AddView extends FormView {
 	}
 	public function PerformAction(&$form){
 		$dbg_elem = new DbgElem();
-		$dbhandle = $form->a2billing->DBHandle();
+		$dbhandle = $form->sess_object->DBHandle();
 		
 		if ($form->FG_DEBUG>0)
 			array_unshift($form->pre_elems,$dbg_elem);

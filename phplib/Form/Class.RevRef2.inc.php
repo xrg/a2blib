@@ -93,7 +93,7 @@ class RevRef2 extends BaseField{
 	}
 	
 	protected function DispForm(array &$qrow,&$form, $active){
-		$DBHandle = $form->a2billing->DBHandle();
+		$DBHandle = $form->sess_object->DBHandle();
 		$presentname = $this->presenttable . '.' . $this->presentname ;
 		$presentid = $this->presenttable . '.' . $this->presentid ;
 		$assocleft= $this->assoctable . '.' . $this->assocleft;
@@ -171,7 +171,7 @@ class RevRef2 extends BaseField{
 	}
 
 	public function PerformObjEdit(&$form){
-		$DBHandle=$form->a2billing->DBHandle();
+		$DBHandle=$form->sess_object->DBHandle();
 		$oeaction = $form->getpost_single($this->fieldname.'_action');
 		$oeid = $form->getpost_single($this->localkey);
 		

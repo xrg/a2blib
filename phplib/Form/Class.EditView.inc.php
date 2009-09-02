@@ -6,7 +6,7 @@ class AskEditView extends FormView {
 	 
 	public function Render(&$form){
 	// For convenience, ref the dbhandle locally
-	$dbhandle = &$form->a2billing->DBHandle();
+	$dbhandle = &$form->sess_object->DBHandle();
 	
 	if ($form->FG_DEBUG>3)
 		echo "List! Building query..";
@@ -142,7 +142,7 @@ class EditView extends FormView{
 	/** Format and execute the Update query */
 	public function PerformAction(&$form){
 		$dbg_elem = new DbgElem();
-		$dbhandle = $form->a2billing->DBHandle();
+		$dbhandle = $form->sess_object->DBHandle();
 		
 		if ($form->FG_DEBUG>0)
 			array_unshift($form->pre_elems,$dbg_elem);

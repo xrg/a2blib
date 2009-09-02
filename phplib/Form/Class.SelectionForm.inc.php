@@ -9,7 +9,7 @@ class SelectionForm extends ElemBase {
 	public $prefix = 'sel_';
 	public $FG_DEBUG = 0;
 	public $model = array();
-	public $a2billing;
+	public $sess_object;
 	protected $_dirty_vars=null; ///< all variables starting with 'prefix'. Set on init.
 	public $search_exprs = array(); ///< an array with comparison operators for the fields
 		/** If set, it will produce a clause \b only when _GET/_POST arrays are empty
@@ -18,11 +18,11 @@ class SelectionForm extends ElemBase {
 	public $fallbackClause;
 	protected $enabled = true;
 
-	function init($sA2Billing= null, $stdActions=true){
-		if ($sA2Billing)
-			$this->a2billing= &$sA2Billing;
+	function init($ssess_object= null, $stdActions=true){
+		if ($ssess_object)
+			$this->sess_object= &$ssess_object;
 		else
-			$this->a2billing= &A2Billing::instance();
+			$this->sess_object= &ASession::instance();
 			
 		if (isset($GLOBALS['FG_DEBUG']))
 			$this->FG_DEBUG = $GLOBALS['FG_DEBUG'];
@@ -82,7 +82,7 @@ class SelectionForm extends ElemBase {
 	
 	/** Returns an array, indexed by the fieldname, with search clauses */
 	public function buildClauses($search_exprs = null){
-		$dbhan = $this->a2billing->DBHandle_p();
+		$dbhan = $this->sess_object->DBHandle_p();
 		
 		if ($search_exprs != null)
 			$sexes = $search_exprs;

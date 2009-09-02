@@ -16,7 +16,7 @@ class FormHandler extends ElemBase{
 		in the same html page! */
 	public $prefix = ''; 
 	
-	public $a2billing; ///< Reference to an a2billing instance
+	public $sess_object; ///< Reference to the session instance
 	
 		/** Custom elements before the form. These can be search options or anything. 
 		    If they are instances of FormElemBase, they will be called with the form
@@ -69,15 +69,15 @@ class FormHandler extends ElemBase{
 		$this->rights_checked = true;
 	}
 
-	function init($sA2Billing= null, $stdActions=true){
+	function init($sess_object= null, $stdActions=true){
 		if (!$this->rights_checked){
 			error_log("Attempt to use FormHandler w/o rights!");
 			die();
 		}
-		if ($sA2Billing)
-			$this->a2billing= &$sA2Billing;
+		if ($sess_object)
+			$this->sess_object= &$sess_object;
 		else
-			$this->a2billing= &A2Billing::instance();
+			$this->sess_object= &ASession::instance();
 			
 		if (isset($GLOBALS['FG_DEBUG']))
 			$this->FG_DEBUG = $GLOBALS['FG_DEBUG'];

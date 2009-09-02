@@ -17,7 +17,7 @@ class SqlActionForm extends ActionForm {
 			return;
 		
 		$dbg_elem = new DbgElem();
-		$dbhandle = $this->a2billing->DBHandle();
+		$dbhandle = $this->sess_object->DBHandle();
 				
 		if ($this->FG_DEBUG>0)
 			array_unshift($this->pre_elems,$dbg_elem);

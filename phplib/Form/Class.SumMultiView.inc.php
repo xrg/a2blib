@@ -181,7 +181,7 @@ class SumMultiView extends FormView {
 		$this->RenderHead();
 		
 		// For convenience, ref the dbhandle locally
-		$dbhandle = &$form->a2billing->DBHandle();
+		$dbhandle = &$form->sess_object->DBHandle();
 		
 		if ($this->ncols ==null)
 			$this->ncols = count($form->model);
@@ -239,7 +239,7 @@ class SumMultiView extends FormView {
 		if ($rmode!='get-data')
 			return;
 		if ($robj instanceof DataObj){
-			$dbhandle = &$form->a2billing->DBHandle();
+			$dbhandle = &$form->sess_object->DBHandle();
 			$plot = $this->plots[$robj->code];
 			if (empty($plot))
 				throw new Exception("Unknown plot");
@@ -264,7 +264,7 @@ class SumMultiView extends FormView {
 			}
 		}
 		/* elseif ($robj instanceof DataObjXYZ){
-			$dbhandle = &$form->a2billing->DBHandle();
+			$dbhandle = &$form->sess_object->DBHandle();
 			$plot = $this->plots[$robj->code];
 			if (empty($plot))
 				throw new Exception("Unknown plot");
@@ -307,7 +307,7 @@ class SumMultiView extends FormView {
 		if ($form->FG_DEBUG>1)
 			echo "RenderGraph!\n";
 		
-		$dbhandle = &$form->a2billing->DBHandle();
+		$dbhandle = &$form->sess_object->DBHandle();
 		$tsum = $this->plots[$gmode];
 		
 		if (!$tsum)
@@ -501,7 +501,7 @@ class Multi2SumView extends SumMultiView {
 	public function Render(&$form){
 		$this->RenderHead();
 	// For convenience, ref the dbhandle locally
-	$dbhandle = &$form->a2billing->DBHandle();
+	$dbhandle = &$form->sess_object->DBHandle();
 		
 	if ($this->ncols ==null)
 		$this->ncols = count($form->model);
