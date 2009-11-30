@@ -40,7 +40,7 @@ abstract class AbstractSession {
 	{
 		$ADODB_CACHE_DIR = '/tmp';
 		/*	$ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;	*/
-		require_once('adodb/adodb.inc.php');
+		require_once('./adodb/adodb.inc.php');
 		
 		if ($this->ini_cfg['database']['dbtype'] == "postgres"){
 			if (isset($this->ini_cfg["database"]['hostname']) && (strlen($this->ini_cfg["database"]['hostname'])>0))
