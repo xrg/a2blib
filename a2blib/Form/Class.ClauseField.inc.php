@@ -47,7 +47,7 @@ class ClauseField extends BaseField {
 			$this->fieldvalue);
 	}
 	
-	public function buildSumQuery(&$dbhandle, &$sum_fns,&$fields,&$fields_out, &$table,
+	public function buildSumQuery(&$dbhandle, &$sum_fns,&$fields,&$fields_out, &$table, &$table_out,
 		&$clauses, &$grps, &$form){
 		
 		$this->listQueryTable($table,$form);
