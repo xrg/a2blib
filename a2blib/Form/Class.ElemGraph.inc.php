@@ -1,5 +1,5 @@
 <?php
-require_once("./../jpgraph_lib/jpgraph.php");
+require_once("a2blib/jpgraph_lib/jpgraph.php");
 
 /** This class collects data from other ElemBase objects through
     their RenderSpecial().
