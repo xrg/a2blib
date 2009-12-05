@@ -1,33 +1,33 @@
 
 #: common/lib/Misc.inc.php:569
 msgid "File size is greater than allowed limit."
-msgstr "Το μέγεθος του αρχείου είναι μεγαλύτερο από το όριο."
+msgstr "Ξ¤ΞΏ ΞΌΞ­Ξ³ΞµΞΈΞΏΟ‚ Ο„ΞΏΟ… Ξ±ΟΟ‡ΞµΞ―ΞΏΟ… ΞµΞ―Ξ½Ξ±ΞΉ ΞΌΞµΞ³Ξ±Ξ»ΟΟ„ΞµΟΞΏ Ξ±Ο€Ο Ο„ΞΏ ΟΟΞΉΞΏ."
 
 #: common/lib/Misc.inc.php:573
 msgid "You did not upload anything!"
-msgstr "Δε στείλατε τίποτα!"
+msgstr "Ξ”Ξµ ΟƒΟ„ΞµΞ―Ξ»Ξ±Ο„Ξµ Ο„Ξ―Ο€ΞΏΟ„Ξ±!"
 
 #: common/lib/Misc.inc.php:577
 msgid "Failed to upload the file, The file you uploaded may not exist on disk."
-msgstr "Σφάλμα, το ανεβασμένο αρχείο δε βρίσκεται στο δίσκο."
+msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ±, Ο„ΞΏ Ξ±Ξ½ΞµΞ²Ξ±ΟƒΞΌΞ­Ξ½ΞΏ Ξ±ΟΟ‡ΞµΞ―ΞΏ Ξ΄Ξµ Ξ²ΟΞ―ΟƒΞΊΞµΟ„Ξ±ΞΉ ΟƒΟ„ΞΏ Ξ΄Ξ―ΟƒΞΊΞΏ."
 
 #: common/lib/Misc.inc.php:583
 msgid "file type is not allowed"
-msgstr "αρχεία τέτοιου τύπου δεν επιτρέπονται"
+msgstr "Ξ±ΟΟ‡ΞµΞ―Ξ± Ο„Ξ­Ο„ΞΏΞΉΞΏΟ… Ο„ΟΟ€ΞΏΟ… Ξ΄ΞµΞ½ ΞµΟ€ΞΉΟ„ΟΞ­Ο€ΞΏΞ½Ο„Ξ±ΞΉ"
 
 #: common/lib/Form/Class.ElemGraph.inc.php:453
 #: common/lib/Form/Class.SumMultiView.inc.php:395
 #: common/lib/Form/Class.SqlRefField.inc.php:211
 msgid "(none)"
-msgstr "(κανένα)"
+msgstr "(ΞΊΞ±Ξ½Ξ­Ξ½Ξ±)"
 
 #: common/lib/Form/Class.FormHelpers.inc.php:14
 msgid "item"
-msgstr "στοιχείο"
+msgstr "ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏ"
 
 #: common/lib/Form/Class.FormHelpers.inc.php:26
 msgid "Add a new %1"
-msgstr "Προσθήκη νέου στοιχείου: %1"
+msgstr "Ξ ΟΞΏΟƒΞΈΞ®ΞΊΞ· Ξ½Ξ­ΞΏΟ… ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…: %1"
 
 #: common/lib/Form/Class.ListView.inc.php:105
 #: common/lib/Form/Class.ListCsvView.inc.php:19
@@ -36,82 +36,82 @@ msgstr "Προσθήκη νέου στοιχείου: %1"
 #: common/lib/Form/Class.ListTeXView.inc.php:19
 #: common/lib/Form/Class.EditView.inc.php:62
 msgid "No %1 found!"
-msgstr "Δε βρέθηκε %1!"
+msgstr "Ξ”Ξµ Ξ²ΟΞ­ΞΈΞ·ΞΊΞµ %1!"
 
 #: common/lib/Form/Class.ListView.inc.php:180
 msgid "%1 Rows,"
-msgstr "%1 Σειρές,"
+msgstr "%1 Ξ£ΞµΞΉΟΞ­Ο‚,"
 
 #: common/lib/Form/Class.ListView.inc.php:182
 msgid "Display"
-msgstr "Εμφάνισε"
+msgstr "Ξ•ΞΌΟ†Ξ¬Ξ½ΞΉΟƒΞµ"
 
 #: common/lib/Form/Class.ListView.inc.php:190
 msgid "All"
-msgstr "Όλα"
+msgstr "ΞΞ»Ξ±"
 
 #: common/lib/Form/Class.ListView.inc.php:192
 msgid "GO"
-msgstr "ΠΗΓΑΙΝΕ"
+msgstr "Ξ Ξ—Ξ“Ξ‘Ξ™ΞΞ•"
 
 #: common/lib/Form/Class.ListView.inc.php:203
 msgid "First"
-msgstr "Πρώτο"
+msgstr "Ξ ΟΟΟ„ΞΏ"
 
 #: common/lib/Form/Class.ListView.inc.php:204
 msgid "Prev"
-msgstr "Προηγ."
+msgstr "Ξ ΟΞΏΞ·Ξ³."
 
 #: common/lib/Form/Class.ListView.inc.php:239
 msgid "Next"
-msgstr "Επόμενο"
+msgstr "Ξ•Ο€ΟΞΌΞµΞ½ΞΏ"
 
 #: common/lib/Form/Class.ListSumView.inc.php:105
 #: common/lib/AgentMoney.inc.php:45
 msgid "Sum"
-msgstr "¶θροισμα"
+msgstr "Ξ†ΞΈΟΞΏΞΉΟƒΞΌΞ±"
 
 #: common/lib/Form/Class.DeleteView.inc.php:17
 msgid "This %1 will be deleted!"
-msgstr "Το στοιχείο: %1 θα διαγραφεί!"
+msgstr "Ξ¤ΞΏ ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏ: %1 ΞΈΞ± Ξ΄ΞΉΞ±Ξ³ΟΞ±Ο†ΞµΞ―!"
 
 #: common/lib/Form/Class.DeleteView.inc.php:69
 #: common/lib/Form/Class.OptionField.inc.php:72
 #: common/lib/Form/Class.TabField.inc.php:133
 msgid "Delete this %1"
-msgstr "Διαγραφή του στοιχείου: %1"
+msgstr "Ξ”ΞΉΞ±Ξ³ΟΞ±Ο†Ξ® Ο„ΞΏΟ… ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…: %1"
 
 #: common/lib/Form/Class.DeleteView.inc.php:132
 #: common/lib/Form/Class.AddView.inc.php:142
 #: common/lib/Form/Class.EditView.inc.php:205
 msgid "Read only. No data has been altered."
-msgstr "Μόνο ανάγνωση. Τα δεδομένα δεν άλλαξαν."
+msgstr "ΞΟΞ½ΞΏ Ξ±Ξ½Ξ¬Ξ³Ξ½Ο‰ΟƒΞ·. Ξ¤Ξ± Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ξ± Ξ΄ΞµΞ½ Ξ¬Ξ»Ξ»Ξ±ΞΎΞ±Ξ½."
 
 #: common/lib/Form/Class.DeleteView.inc.php:147
 msgid "Cannot delete %1, database error."
-msgstr "Δεν μπορώ να διαγράψω το %1, σφάλμα στη βάση."
+msgstr "Ξ”ΞµΞ½ ΞΌΟ€ΞΏΟΟ Ξ½Ξ± Ξ΄ΞΉΞ±Ξ³ΟΞ¬ΟΟ‰ Ο„ΞΏ %1, ΟƒΟ†Ξ¬Ξ»ΞΌΞ± ΟƒΟ„Ξ· Ξ²Ξ¬ΟƒΞ·."
 
 #: common/lib/Form/Class.DeleteView.inc.php:154
 msgid "Cannot delete %1, record not found."
-msgstr "Δεν μπορώ να διαγράψω το %1 γιατί δεν βρέθηκε."
+msgstr "Ξ”ΞµΞ½ ΞΌΟ€ΞΏΟΟ Ξ½Ξ± Ξ΄ΞΉΞ±Ξ³ΟΞ¬ΟΟ‰ Ο„ΞΏ %1 Ξ³ΞΉΞ±Ο„Ξ― Ξ΄ΞµΞ½ Ξ²ΟΞ­ΞΈΞ·ΞΊΞµ."
 
 #: common/lib/Form/Class.DeleteView.inc.php:158
 msgid "Record successfully removed from the database."
-msgstr "Η εγγραφή διαγράφηκε από τη βάση δεδομένων."
+msgstr "Ξ— ΞµΞ³Ξ³ΟΞ±Ο†Ξ® Ξ΄ΞΉΞ±Ξ³ΟΞ¬Ο†Ξ·ΞΊΞµ Ξ±Ο€Ο Ο„Ξ· Ξ²Ξ¬ΟƒΞ· Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½."
 
 #: common/lib/Form/Class.TextField.inc.php:43
 #: common/lib/Form/Class.OptionField.inc.php:56
 msgid "Edit this %1"
-msgstr "Επεξεργασία του στοιχείου: %1"
+msgstr "Ξ•Ο€ΞµΞΎΞµΟΞ³Ξ±ΟƒΞ―Ξ± Ο„ΞΏΟ… ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…: %1"
 
 #: common/lib/Form/Class.TextField.inc.php:60
 msgid "Details of this %1"
-msgstr "Λεπτομέρειες του στοιχείου: %1"
+msgstr "Ξ›ΞµΟ€Ο„ΞΏΞΌΞ­ΟΞµΞΉΞµΟ‚ Ο„ΞΏΟ… ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…: %1"
 
 #: common/lib/Form/Class.SumMultiView.inc.php:192
 #: common/lib/Form/Class.SumMultiView.inc.php:516
 msgid "No sums found!"
-msgstr "Δε βρέθηκαν αθροίσματα!"
+msgstr "Ξ”Ξµ Ξ²ΟΞ­ΞΈΞ·ΞΊΞ±Ξ½ Ξ±ΞΈΟΞΏΞ―ΟƒΞΌΞ±Ο„Ξ±!"
 
 #: common/lib/Form/Class.TimeField.inc.php:19
 msgid "YYYY-MM-DD HH24:MI:SS TZ"
@@ -123,16 +123,16 @@ msgstr "DD/MM/YYYY"
 
 #: common/lib/Form/Class.NumField.inc.php:226
 msgid "TRUE"
-msgstr "ΑΛΗΘΕΣ"
+msgstr "Ξ‘Ξ›Ξ—ΞΞ•Ξ£"
 
 #: common/lib/Form/Class.NumField.inc.php:228
 msgid "FALSE"
-msgstr "ΨΕΥΔΕΣ"
+msgstr "Ξ¨Ξ•Ξ¥Ξ”Ξ•Ξ£"
 
 #: common/lib/Form/Class.NumField.inc.php:255
 #: common/lib/Form/Class.VolField.inc.php:36
 msgid "0 sec"
-msgstr "0 δευτ."
+msgstr "0 Ξ΄ΞµΟ…Ο„."
 
 #: common/lib/Form/Class.NumField.inc.php:270
 msgid "Y-m-d H:i:s T"
@@ -141,193 +141,193 @@ msgstr "d/m/Y H:i:s T"
 #: common/lib/Form/Class.AddView.inc.php:61
 #: common/lib/Form/Class.TabField.inc.php:108
 msgid "Create this %1"
-msgstr "Δημιουργία ενός στοιχείου: %1"
+msgstr "Ξ”Ξ·ΞΌΞΉΞΏΟ…ΟΞ³Ξ―Ξ± ΞµΞ½ΟΟ‚ ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…: %1"
 
 #: common/lib/Form/Class.AddView.inc.php:152
 msgid "Cannot create new %1, database error."
-msgstr "Δεν εισάγεται %1, σφάλμα στη βάση δεδομένων."
+msgstr "Ξ”ΞµΞ½ ΞµΞΉΟƒΞ¬Ξ³ΞµΟ„Ξ±ΞΉ %1, ΟƒΟ†Ξ¬Ξ»ΞΌΞ± ΟƒΟ„Ξ· Ξ²Ξ¬ΟƒΞ· Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½."
 
 #: common/lib/Form/Class.AddView.inc.php:157
 msgid "New data has successfully been inserted into the database."
-msgstr "Τα στοιχεία προστέθηκαν στη βάση δεδομένων."
+msgstr "Ξ¤Ξ± ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―Ξ± Ο€ΟΞΏΟƒΟ„Ξ­ΞΈΞ·ΞΊΞ±Ξ½ ΟƒΟ„Ξ· Ξ²Ξ¬ΟƒΞ· Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½."
 
 #: common/lib/Form/Class.ActionForm.inc.php:25
 msgid "Action finished successfully!"
-msgstr "Η ενέργεια ολοκληρώθηκε!"
+msgstr "Ξ— ΞµΞ½Ξ­ΟΞ³ΞµΞΉΞ± ΞΏΞ»ΞΏΞΊΞ»Ξ·ΟΟΞΈΞ·ΞΊΞµ!"
 
 #: common/lib/Form/Class.ActionForm.inc.php:26
 msgid "Action failed: %1"
-msgstr "Η ενέργεια απέτυχε: %1"
+msgstr "Ξ— ΞµΞ½Ξ­ΟΞ³ΞµΞΉΞ± Ξ±Ο€Ξ­Ο„Ο…Ο‡Ξµ: %1"
 
 #: common/lib/Form/Class.RevRef.inc.php:132
 #: common/lib/Form/Class.RevRef2.inc.php:117
 msgid "No data found!"
-msgstr "Δε βρέθηκαν δεδομένα!"
+msgstr "Ξ”Ξµ Ξ²ΟΞ­ΞΈΞ·ΞΊΞ±Ξ½ Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ξ±!"
 
 #: common/lib/Form/Class.RevRef.inc.php:138
 #: common/lib/Form/Class.RevRef2.inc.php:123
 msgid "Action"
-msgstr "Ενέργεια"
+msgstr "Ξ•Ξ½Ξ­ΟΞ³ΞµΞΉΞ±"
 
 #: common/lib/Form/Class.RevRef.inc.php:147
 #: common/lib/Form/Class.RevRef.inc.php:149
 #: common/lib/Form/Class.RevRef2.inc.php:130
 msgid "Remove this"
-msgstr "Αφαίρεση αυτού"
+msgstr "Ξ‘Ο†Ξ±Ξ―ΟΞµΟƒΞ· Ξ±Ο…Ο„ΞΏΟ"
 
 #: common/lib/Form/Class.RevRef.inc.php:208
 #: common/lib/Form/Class.RevRef2.inc.php:154
 msgid "No additional data found!"
-msgstr "Δε βρέθηκαν επιπλέον δεδομένα!"
+msgstr "Ξ”Ξµ Ξ²ΟΞ­ΞΈΞ·ΞΊΞ±Ξ½ ΞµΟ€ΞΉΟ€Ξ»Ξ­ΞΏΞ½ Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ξ±!"
 
 #: common/lib/Form/Class.RevRef.inc.php:210
 #: common/lib/Form/Class.RevRef2.inc.php:156
 msgid "Select one to add.."
-msgstr "Επιλέξτε ένα για να προσθέσετε.."
+msgstr "Ξ•Ο€ΞΉΞ»Ξ­ΞΎΟ„Ξµ Ξ­Ξ½Ξ± Ξ³ΞΉΞ± Ξ½Ξ± Ο€ΟΞΏΟƒΞΈΞ­ΟƒΞµΟ„Ξµ.."
 
 #: common/lib/Form/Class.RevRef.inc.php:216
 #: common/lib/Form/Class.RevRef.inc.php:282
 #: common/lib/Form/Class.RevRef2.inc.php:162
 msgid "Add this"
-msgstr "Προσθήκη αυτού"
+msgstr "Ξ ΟΞΏΟƒΞΈΞ®ΞΊΞ· Ξ±Ο…Ο„ΞΏΟ"
 
 #: common/lib/Form/Class.RevRef.inc.php:238
 msgid "Could not add!"
-msgstr "Δεν ήταν δυνατή η προσθήκη!"
+msgstr "Ξ”ΞµΞ½ Ξ®Ο„Ξ±Ξ½ Ξ΄Ο…Ξ½Ξ±Ο„Ξ® Ξ· Ο€ΟΞΏΟƒΞΈΞ®ΞΊΞ·!"
 
 #: common/lib/Form/Class.RevRef.inc.php:241
 msgid "Item added!"
-msgstr "Έγινε προσθήκη του στοιχείου!"
+msgstr "ΞΞ³ΞΉΞ½Ξµ Ο€ΟΞΏΟƒΞΈΞ®ΞΊΞ· Ο„ΞΏΟ… ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…!"
 
 #: common/lib/Form/Class.RevRef.inc.php:254
 msgid "Could not delete!"
-msgstr "Δεν ήταν δυνατή η διαγραφή!"
+msgstr "Ξ”ΞµΞ½ Ξ®Ο„Ξ±Ξ½ Ξ΄Ο…Ξ½Ξ±Ο„Ξ® Ξ· Ξ΄ΞΉΞ±Ξ³ΟΞ±Ο†Ξ®!"
 
 #: common/lib/Form/Class.RevRef.inc.php:257
 msgid "Item deleted!"
-msgstr "Έγινε διαγραφή του στοιχείου!"
+msgstr "ΞΞ³ΞΉΞ½Ξµ Ξ΄ΞΉΞ±Ξ³ΟΞ±Ο†Ξ® Ο„ΞΏΟ… ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…!"
 
 #: common/lib/Form/Class.RevRef.inc.php:307
 #: common/lib/Form/Class.RevRef2.inc.php:190
 msgid "Cannot insert new %1"
-msgstr "Δεν είναι δυνατή η προσθήκη %1"
+msgstr "Ξ”ΞµΞ½ ΞµΞ―Ξ½Ξ±ΞΉ Ξ΄Ο…Ξ½Ξ±Ο„Ξ® Ξ· Ο€ΟΞΏΟƒΞΈΞ®ΞΊΞ· %1"
 
 #: common/lib/Form/Class.RevRef.inc.php:325
 #: common/lib/Form/Class.RevRef2.inc.php:203
 msgid "Cannot delete %1"
-msgstr "Δεν είναι δυνατή η διαγραφή %1"
+msgstr "Ξ”ΞµΞ½ ΞµΞ―Ξ½Ξ±ΞΉ Ξ΄Ο…Ξ½Ξ±Ο„Ξ® Ξ· Ξ΄ΞΉΞ±Ξ³ΟΞ±Ο†Ξ® %1"
 
 #: common/lib/Form/Class.SqlActionForm.inc.php:39
 msgid "database error"
-msgstr "σφάλμα στη βάση δεδομένων"
+msgstr "ΟƒΟ†Ξ¬Ξ»ΞΌΞ± ΟƒΟ„Ξ· Ξ²Ξ¬ΟƒΞ· Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½"
 
 #: common/lib/Form/Class.SqlActionForm.inc.php:48
 msgid "no rows"
-msgstr "καμία εγγραφή"
+msgstr "ΞΊΞ±ΞΌΞ―Ξ± ΞµΞ³Ξ³ΟΞ±Ο†Ξ®"
 
 #: common/lib/Form/Class.ImportView.inc.php:36
 msgid "Please, you must first select a file !"
-msgstr "Παρακαλώ, πρέπει πρώτα να επιλέξετε ένα αρχείο!"
+msgstr "Ξ Ξ±ΟΞ±ΞΊΞ±Ξ»Ο, Ο€ΟΞ­Ο€ΞµΞΉ Ο€ΟΟΟ„Ξ± Ξ½Ξ± ΞµΟ€ΞΉΞ»Ξ­ΞΎΞµΟ„Ξµ Ξ­Ξ½Ξ± Ξ±ΟΟ‡ΞµΞ―ΞΏ!"
 
 #: common/lib/Form/Class.ImportView.inc.php:186
 msgid ""
 "Use the example below to format the CSV file. Fields are separated by '%1' , "
 "</br>"
 msgstr ""
-"Χρησιμοποιήστε το παρακάτω παράδειγμα για μορφοποίηση του αρχείου CSV. Τα "
-"πεδία διαχωρίζονται με '%1' , "
+"Ξ§ΟΞ·ΟƒΞΉΞΌΞΏΟ€ΞΏΞΉΞ®ΟƒΟ„Ξµ Ο„ΞΏ Ο€Ξ±ΟΞ±ΞΊΞ¬Ο„Ο‰ Ο€Ξ±ΟΞ¬Ξ΄ΞµΞΉΞ³ΞΌΞ± Ξ³ΞΉΞ± ΞΌΞΏΟΟ†ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· Ο„ΞΏΟ… Ξ±ΟΟ‡ΞµΞ―ΞΏΟ… CSV. Ξ¤Ξ± "
+"Ο€ΞµΞ΄Ξ―Ξ± Ξ΄ΞΉΞ±Ο‡Ο‰ΟΞ―Ξ¶ΞΏΞ½Ο„Ξ±ΞΉ ΞΌΞµ '%1' , "
 "</br>"
 
 #: common/lib/Form/Class.ImportView.inc.php:191
 msgid "New %1 have to be imported from a CSV file."
-msgstr "Τα νέα %1 θα εισαχθούν από αρχείο CSV."
+msgstr "Ξ¤Ξ± Ξ½Ξ­Ξ± %1 ΞΈΞ± ΞµΞΉΟƒΞ±Ο‡ΞΈΞΏΟΞ½ Ξ±Ο€Ο Ξ±ΟΟ‡ΞµΞ―ΞΏ CSV."
 
 #: common/lib/Form/Class.ImportView.inc.php:194
 #, fuzzy
 msgid "New %1 have to be imported from a file."
-msgstr "Τα νέα %1 θα εισαχθούν από αρχείο CSV."
+msgstr "Ξ¤Ξ± Ξ½Ξ­Ξ± %1 ΞΈΞ± ΞµΞΉΟƒΞ±Ο‡ΞΈΞΏΟΞ½ Ξ±Ο€Ο Ξ±ΟΟ‡ΞµΞ―ΞΏ CSV."
 
 #: common/lib/Form/Class.ImportView.inc.php:211
 msgid "Common fields"
-msgstr "Κοινά πεδία"
+msgstr "ΞΞΏΞΉΞ½Ξ¬ Ο€ΞµΞ΄Ξ―Ξ±"
 
 #: common/lib/Form/Class.ImportView.inc.php:221
 msgid "Mandatory fields"
-msgstr "Υποχρεωτικά πεδία"
+msgstr "Ξ¥Ο€ΞΏΟ‡ΟΞµΟ‰Ο„ΞΉΞΊΞ¬ Ο€ΞµΞ΄Ξ―Ξ±"
 
 #: common/lib/Form/Class.ImportView.inc.php:234
 msgid "Optional fields"
-msgstr "Προαιρετικά πεδία"
+msgstr "Ξ ΟΞΏΞ±ΞΉΟΞµΟ„ΞΉΞΊΞ¬ Ο€ΞµΞ΄Ξ―Ξ±"
 
 #: common/lib/Form/Class.ImportView.inc.php:239
 msgid "Unselected Fields..."
-msgstr "Αποεπιλεγμένα Πεδία."
+msgstr "Ξ‘Ο€ΞΏΞµΟ€ΞΉΞ»ΞµΞ³ΞΌΞ­Ξ½Ξ± Ξ ΞµΞ΄Ξ―Ξ±."
 
 #: common/lib/Form/Class.ImportView.inc.php:248
 msgid "Add field"
-msgstr "Προσθήκη πεδίου"
+msgstr "Ξ ΟΞΏΟƒΞΈΞ®ΞΊΞ· Ο€ΞµΞ΄Ξ―ΞΏΟ…"
 
 #: common/lib/Form/Class.ImportView.inc.php:250
 msgid "Remove field"
-msgstr "Αφαίρεση πεδίου"
+msgstr "Ξ‘Ο†Ξ±Ξ―ΟΞµΟƒΞ· Ο€ΞµΞ΄Ξ―ΞΏΟ…"
 
 #: common/lib/Form/Class.ImportView.inc.php:253
 msgid "Selected Fields..."
-msgstr "Επιλεγμένα Πεδία..."
+msgstr "Ξ•Ο€ΞΉΞ»ΞµΞ³ΞΌΞ­Ξ½Ξ± Ξ ΞµΞ΄Ξ―Ξ±..."
 
 #: common/lib/Form/Class.ImportView.inc.php:258
 msgid "Move up"
-msgstr "Μετακίνηση πάνω"
+msgstr "ΞΞµΟ„Ξ±ΞΊΞ―Ξ½Ξ·ΟƒΞ· Ο€Ξ¬Ξ½Ο‰"
 
 #: common/lib/Form/Class.ImportView.inc.php:260
 msgid "Move down"
-msgstr "Μετακίνηση κάτω"
+msgstr "ΞΞµΟ„Ξ±ΞΊΞ―Ξ½Ξ·ΟƒΞ· ΞΊΞ¬Ο„Ο‰"
 
 #: common/lib/Form/Class.ImportView.inc.php:279
 msgid "Upload File"
-msgstr "Ανέβασμα Αρχείου"
+msgstr "Ξ‘Ξ½Ξ­Ξ²Ξ±ΟƒΞΌΞ± Ξ‘ΟΟ‡ΞµΞ―ΞΏΟ…"
 
 #: common/lib/Form/Class.ImportView.inc.php:280
 msgid "File"
-msgstr "Αρχείο"
+msgstr "Ξ‘ΟΟ‡ΞµΞ―ΞΏ"
 
 #: common/lib/Form/Class.ImportView.inc.php:283
 msgid "The maximum file size is %1 KB"
-msgstr "Το μέγιστο μέγεθος αρχείου είναι %1 KB"
+msgstr "Ξ¤ΞΏ ΞΌΞ­Ξ³ΞΉΟƒΟ„ΞΏ ΞΌΞ­Ξ³ΞµΞΈΞΏΟ‚ Ξ±ΟΟ‡ΞµΞ―ΞΏΟ… ΞµΞ―Ξ½Ξ±ΞΉ %1 KB"
 
 #: common/lib/Form/Class.ImportView.inc.php:291
 msgid "Submit"
-msgstr "Υποβολή"
+msgstr "Ξ¥Ο€ΞΏΞ²ΞΏΞ»Ξ®"
 
 #: common/lib/Form/Class.ImportView.inc.php:293
 msgid "Import %1"
-msgstr "Εισαγωγή του %1"
+msgstr "Ξ•ΞΉΟƒΞ±Ξ³Ο‰Ξ³Ξ® Ο„ΞΏΟ… %1"
 
 #: common/lib/Form/Class.ImportView.inc.php:299
 msgid "Examples"
-msgstr "Παραδείγματα"
+msgstr "Ξ Ξ±ΟΞ±Ξ΄ΞµΞ―Ξ³ΞΌΞ±Ο„Ξ±"
 
 #: common/lib/Form/Class.ImportView.inc.php:342
 msgid "File has not been posted at all!"
-msgstr "Το αρχείο δεν ήρθε καθόλου!"
+msgstr "Ξ¤ΞΏ Ξ±ΟΟ‡ΞµΞ―ΞΏ Ξ΄ΞµΞ½ Ξ®ΟΞΈΞµ ΞΊΞ±ΞΈΟΞ»ΞΏΟ…!"
 
 #: common/lib/Form/Class.ImportView.inc.php:351
 msgid "File size exceeds %1 limit of the system!"
-msgstr "Το αρχείο έχει μέγεθος μεγαλύτερο από το %1, το όριο του συστήματος!"
+msgstr "Ξ¤ΞΏ Ξ±ΟΟ‡ΞµΞ―ΞΏ Ξ­Ο‡ΞµΞΉ ΞΌΞ­Ξ³ΞµΞΈΞΏΟ‚ ΞΌΞµΞ³Ξ±Ξ»ΟΟ„ΞµΟΞΏ Ξ±Ο€Ο Ο„ΞΏ %1, Ο„ΞΏ ΟΟΞΉΞΏ Ο„ΞΏΟ… ΟƒΟ…ΟƒΟ„Ξ®ΞΌΞ±Ο„ΞΏΟ‚!"
 
 #: common/lib/Form/Class.ImportView.inc.php:356
 msgid "File size exceeds %1 limit for this action!"
 msgstr ""
-"Το μέγεθος του αρχείου υπερβαίνει τα %1 που επιτρέπονται γι αυτή την "
-"ενέργεια."
+"Ξ¤ΞΏ ΞΌΞ­Ξ³ΞµΞΈΞΏΟ‚ Ο„ΞΏΟ… Ξ±ΟΟ‡ΞµΞ―ΞΏΟ… Ο…Ο€ΞµΟΞ²Ξ±Ξ―Ξ½ΞµΞΉ Ο„Ξ± %1 Ο€ΞΏΟ… ΞµΟ€ΞΉΟ„ΟΞ­Ο€ΞΏΞ½Ο„Ξ±ΞΉ Ξ³ΞΉ Ξ±Ο…Ο„Ξ® Ο„Ξ·Ξ½ "
+"ΞµΞ½Ξ­ΟΞ³ΞµΞΉΞ±."
 
 #: common/lib/Form/Class.ImportView.inc.php:361
 msgid "The uploaded file was only partially uploaded."
-msgstr "Το αρχείο δεν έφτασε ολόκληρο."
+msgstr "Ξ¤ΞΏ Ξ±ΟΟ‡ΞµΞ―ΞΏ Ξ΄ΞµΞ½ Ξ­Ο†Ο„Ξ±ΟƒΞµ ΞΏΞ»ΟΞΊΞ»Ξ·ΟΞΏ."
 
 #: common/lib/Form/Class.ImportView.inc.php:366
 msgid "No file was uploaded."
-msgstr "Δεν ανέβηκε κανένα αρχείο."
+msgstr "Ξ”ΞµΞ½ Ξ±Ξ½Ξ­Ξ²Ξ·ΞΊΞµ ΞΊΞ±Ξ½Ξ­Ξ½Ξ± Ξ±ΟΟ‡ΞµΞ―ΞΏ."
 
 #: common/lib/Form/Class.ImportView.inc.php:371
 #: common/lib/Form/Class.ImportView.inc.php:376
@@ -335,127 +335,127 @@ msgstr "Δεν ανέβηκε κανένα αρχείο."
 #: common/lib/Form/Class.ImportView.inc.php:414
 #: common/lib/Form/Class.ImportView.inc.php:424
 msgid "Internal error, could not upload."
-msgstr "Εσωτερικό σφάλμα, δεν ανέβηκαν τα δεδομένα."
+msgstr "Ξ•ΟƒΟ‰Ο„ΞµΟΞΉΞΊΟ ΟƒΟ†Ξ¬Ξ»ΞΌΞ±, Ξ΄ΞµΞ½ Ξ±Ξ½Ξ­Ξ²Ξ·ΞΊΞ±Ξ½ Ο„Ξ± Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ξ±."
 
 #: common/lib/Form/Class.ImportView.inc.php:388
 msgid "Cannot accept file of type %1. Allowed types are: %2."
-msgstr "Δεν επιτρέπεται αρχείο τύπου %1. Επιτρεπόμενοι τύποι είναι: %2."
+msgstr "Ξ”ΞµΞ½ ΞµΟ€ΞΉΟ„ΟΞ­Ο€ΞµΟ„Ξ±ΞΉ Ξ±ΟΟ‡ΞµΞ―ΞΏ Ο„ΟΟ€ΞΏΟ… %1. Ξ•Ο€ΞΉΟ„ΟΞµΟ€ΟΞΌΞµΞ½ΞΏΞΉ Ο„ΟΟ€ΞΏΞΉ ΞµΞ―Ξ½Ξ±ΞΉ: %2."
 
 #: common/lib/Form/Class.ImportView.inc.php:402
 msgid "Error in submitted form."
-msgstr "Σφάλμα στη φόρμα."
+msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ± ΟƒΟ„Ξ· Ο†ΟΟΞΌΞ±."
 
 #: common/lib/Form/Class.ImportView.inc.php:450
 #: common/lib/Form/Class.ImportView.inc.php:621
 msgid "Analyzing uploaded data..."
-msgstr "Τα δεδομένα αναλύονται..."
+msgstr "Ξ¤Ξ± Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ξ± Ξ±Ξ½Ξ±Ξ»ΟΞΏΞ½Ο„Ξ±ΞΉ..."
 
 #: common/lib/Form/Class.ImportView.inc.php:457
 #: common/lib/Form/Class.ImportView.inc.php:628
 #: common/lib/Form/Class.ImportView.inc.php:901
 msgid "Error: Cannot open uploaded file"
-msgstr "Σφάλμα: δεν ανοίγει το αρχείο."
+msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ±: Ξ΄ΞµΞ½ Ξ±Ξ½ΞΏΞ―Ξ³ΞµΞΉ Ο„ΞΏ Ξ±ΟΟ‡ΞµΞ―ΞΏ."
 
 #: common/lib/Form/Class.ImportView.inc.php:564
 #: common/lib/Form/Class.ImportView.inc.php:718
 msgid "Import these %1"
-msgstr "Εισαγωγή %1"
+msgstr "Ξ•ΞΉΟƒΞ±Ξ³Ο‰Ξ³Ξ® %1"
 
 #: common/lib/Form/Class.ImportView.inc.php:795
 msgid "Session Error, cannot import!"
-msgstr "Σφάλμα Συνεδρίας: δεν είναι δυνατή η εισαγωγή στοιχείων!"
+msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ± Ξ£Ο…Ξ½ΞµΞ΄ΟΞ―Ξ±Ο‚: Ξ΄ΞµΞ½ ΞµΞ―Ξ½Ξ±ΞΉ Ξ΄Ο…Ξ½Ξ±Ο„Ξ® Ξ· ΞµΞΉΟƒΞ±Ξ³Ο‰Ξ³Ξ® ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―Ο‰Ξ½!"
 
 #: common/lib/Form/Class.ImportView.inc.php:804
 msgid "Session Error, file vanished!"
-msgstr "Σφάλμα Συνεδρίας: το αρχείο λείπει!"
+msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ± Ξ£Ο…Ξ½ΞµΞ΄ΟΞ―Ξ±Ο‚: Ο„ΞΏ Ξ±ΟΟ‡ΞµΞ―ΞΏ Ξ»ΞµΞ―Ο€ΞµΞΉ!"
 
 #: common/lib/Form/Class.ImportView.inc.php:814
 msgid "Session Error !"
-msgstr "Σφάλμα Συνεδρίας!"
+msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ± Ξ£Ο…Ξ½ΞµΞ΄ΟΞ―Ξ±Ο‚!"
 
 #: common/lib/Form/Class.ImportView.inc.php:828
 msgid "Importing uploaded data..."
-msgstr "Τα δεδομένα εισάγονται..."
+msgstr "Ξ¤Ξ± Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ξ± ΞµΞΉΟƒΞ¬Ξ³ΞΏΞ½Ο„Ξ±ΞΉ..."
 
 #: common/lib/Form/Class.ImportView.inc.php:958
 msgid "Database error, cannot import!"
-msgstr "Σφάλμα στη βάση δεδομένων!"
+msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ± ΟƒΟ„Ξ· Ξ²Ξ¬ΟƒΞ· Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½!"
 
 #: common/lib/Form/Class.ImportView.inc.php:968
 msgid "Database error, rows not imported!"
-msgstr "Σφάλμα στη βάση δεδομένων: δεν εισήχθησαν εγγραφές!"
+msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ± ΟƒΟ„Ξ· Ξ²Ξ¬ΟƒΞ· Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½: Ξ΄ΞµΞ½ ΞµΞΉΟƒΞ®Ο‡ΞΈΞ·ΟƒΞ±Ξ½ ΞµΞ³Ξ³ΟΞ±Ο†Ξ­Ο‚!"
 
 #: common/lib/Form/Class.ImportView.inc.php:1008
 msgid "Database error, secondary rows not imported!"
-msgstr "Σφάλμα στη βάση δεδομένων: δεν εισήχθηκαν δευτερεύουσες εγγραφές!"
+msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ± ΟƒΟ„Ξ· Ξ²Ξ¬ΟƒΞ· Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½: Ξ΄ΞµΞ½ ΞµΞΉΟƒΞ®Ο‡ΞΈΞ·ΞΊΞ±Ξ½ Ξ΄ΞµΟ…Ο„ΞµΟΞµΟΞΏΟ…ΟƒΞµΟ‚ ΞµΞ³Ξ³ΟΞ±Ο†Ξ­Ο‚!"
 
 #: common/lib/Form/Class.ImportView.inc.php:1029
 #: common/lib/Form/Class.ImportView.inc.php:1031
 #: common/lib/Form/Class.ImportView.inc.php:1043
 #: common/lib/Form/Class.ImportView.inc.php:1045
 msgid "%1 lines processed: %2 rows"
-msgstr "Επεξεργάσθηκαν %1 γραμμές από το αρχείο: %2 εγγραφές."
+msgstr "Ξ•Ο€ΞµΞΎΞµΟΞ³Ξ¬ΟƒΞΈΞ·ΞΊΞ±Ξ½ %1 Ξ³ΟΞ±ΞΌΞΌΞ­Ο‚ Ξ±Ο€Ο Ο„ΞΏ Ξ±ΟΟ‡ΞµΞ―ΞΏ: %2 ΞµΞ³Ξ³ΟΞ±Ο†Ξ­Ο‚."
 
 #: common/lib/Form/Class.ImportView.inc.php:1050
 msgid "Import of data aborted."
-msgstr "Η εισαγωγή δεδομένων ακυρώθηκε."
+msgstr "Ξ— ΞµΞΉΟƒΞ±Ξ³Ο‰Ξ³Ξ® Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½ Ξ±ΞΊΟ…ΟΟΞΈΞ·ΞΊΞµ."
 
 #: common/lib/Form/Class.SelectionForm.inc.php:163
 msgid "GO!"
-msgstr "ΠΗΓΑΙΝΕ!"
+msgstr "Ξ Ξ—Ξ“Ξ‘Ξ™ΞΞ•!"
 
 #: common/lib/Form/Class.OptionField.inc.php:12
 msgid "Actions"
-msgstr "Ενέργειες"
+msgstr "Ξ•Ξ½Ξ­ΟΞ³ΞµΞΉΞµΟ‚"
 
 #: common/lib/Form/Class.OptionField.inc.php:92
 msgid "Details of %1"
-msgstr "Λεπτομέρειες %1"
+msgstr "Ξ›ΞµΟ€Ο„ΞΏΞΌΞ­ΟΞµΞΉΞµΟ‚ %1"
 
 #: common/lib/Form/Class.FormHandler.inc.php:329
 msgid "Graph"
-msgstr "Γράφημα"
+msgstr "Ξ“ΟΞ¬Ο†Ξ·ΞΌΞ±"
 
 #: common/lib/Form/Class.TextSearchField.inc.php:21
 msgid "Ignore"
-msgstr "Αγνόησε"
+msgstr "Ξ‘Ξ³Ξ½ΟΞ·ΟƒΞµ"
 
 #: common/lib/Form/Class.TextSearchField.inc.php:24
 msgid "Starts with"
-msgstr "Αρχίζει από"
+msgstr "Ξ‘ΟΟ‡Ξ―Ξ¶ΞµΞΉ Ξ±Ο€Ο"
 
 #: common/lib/Form/Class.TextSearchField.inc.php:27
 msgid "Equals"
-msgstr "Ισούται"
+msgstr "Ξ™ΟƒΞΏΟΟ„Ξ±ΞΉ"
 
 #: common/lib/Form/Class.TextSearchField.inc.php:30
 msgid "Contains"
-msgstr "Περιέχει"
+msgstr "Ξ ΞµΟΞΉΞ­Ο‡ΞµΞΉ"
 
 #: common/lib/Form/Class.TextSearchField.inc.php:33
 msgid "Ends in"
-msgstr "Τελειώνει σε"
+msgstr "Ξ¤ΞµΞ»ΞµΞΉΟΞ½ΞµΞΉ ΟƒΞµ"
 
 #: common/lib/Form/Class.TabField.inc.php:83
 #: common/lib/Form/Class.EditView.inc.php:120
 msgid "Update this %1"
-msgstr "Ενημέρωση του %1"
+msgstr "Ξ•Ξ½Ξ·ΞΌΞ­ΟΟ‰ΟƒΞ· Ο„ΞΏΟ… %1"
 
 #: common/lib/Form/Class.EditView.inc.php:215
 msgid "Cannot update %1, database error."
-msgstr "Δεν ενημερώθηκε το %1, σφάλμα στη βάση δεδομένων."
+msgstr "Ξ”ΞµΞ½ ΞµΞ½Ξ·ΞΌΞµΟΟΞΈΞ·ΞΊΞµ Ο„ΞΏ %1, ΟƒΟ†Ξ¬Ξ»ΞΌΞ± ΟƒΟ„Ξ· Ξ²Ξ¬ΟƒΞ· Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½."
 
 #: common/lib/Form/Class.EditView.inc.php:222
 msgid "Cannot update %1, record not found."
-msgstr "Δεν ενημερώθηκε το %1, η εγγραφή δε βρέθηκε."
+msgstr "Ξ”ΞµΞ½ ΞµΞ½Ξ·ΞΌΞµΟΟΞΈΞ·ΞΊΞµ Ο„ΞΏ %1, Ξ· ΞµΞ³Ξ³ΟΞ±Ο†Ξ® Ξ΄Ξµ Ξ²ΟΞ­ΞΈΞ·ΞΊΞµ."
 
 #: common/lib/Form/Class.EditView.inc.php:226
 msgid "Data has successfully been updated in the database."
-msgstr "Τα δεδομένα ενημερώθηκαν στη βάση δεδομένων."
+msgstr "Ξ¤Ξ± Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ξ± ΞµΞ½Ξ·ΞΌΞµΟΟΞΈΞ·ΞΊΞ±Ξ½ ΟƒΟ„Ξ· Ξ²Ξ¬ΟƒΞ· Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½."
 
 #: common/lib/Provi/Class.ProvisionActionForm.inc.php:38
 msgid "Invalid type!"
-msgstr "Λάθος τύπος!"
+msgstr "Ξ›Ξ¬ΞΈΞΏΟ‚ Ο„ΟΟ€ΞΏΟ‚!"
 
 #: common/lib/Provi/Class.ProvisionActionForm.inc.php:93
 msgid "Here is your example %1:"
@@ -463,55 +463,55 @@ msgstr ""
 
 #: common/lib/languageSettings.inc.php:25
 msgid "English"
-msgstr "Αγγλικά"
+msgstr "Ξ‘Ξ³Ξ³Ξ»ΞΉΞΊΞ¬"
 
 #: common/lib/languageSettings.inc.php:26
 msgid "Arabic"
-msgstr "Αραβικά"
+msgstr "Ξ‘ΟΞ±Ξ²ΞΉΞΊΞ¬"
 
 #: common/lib/languageSettings.inc.php:27
 msgid "Brazilian"
-msgstr "Βραζιλιάνικη"
+msgstr "Ξ’ΟΞ±Ξ¶ΞΉΞ»ΞΉΞ¬Ξ½ΞΉΞΊΞ·"
 
 #: common/lib/languageSettings.inc.php:28
 msgid "Chinese"
-msgstr "Κινέζικα"
+msgstr "ΞΞΉΞ½Ξ­Ξ¶ΞΉΞΊΞ±"
 
 #: common/lib/languageSettings.inc.php:29
 msgid "French"
-msgstr "Γαλλική"
+msgstr "Ξ“Ξ±Ξ»Ξ»ΞΉΞΊΞ®"
 
 #: common/lib/languageSettings.inc.php:30
 msgid "German"
-msgstr "Γερμανική"
+msgstr "Ξ“ΞµΟΞΌΞ±Ξ½ΞΉΞΊΞ®"
 
 #: common/lib/languageSettings.inc.php:32
 msgid "Italian"
-msgstr "Ιταλικά"
+msgstr "Ξ™Ο„Ξ±Ξ»ΞΉΞΊΞ¬"
 
 #: common/lib/languageSettings.inc.php:33
 msgid "Polish"
-msgstr "Πολωνική"
+msgstr "Ξ ΞΏΞ»Ο‰Ξ½ΞΉΞΊΞ®"
 
 #: common/lib/languageSettings.inc.php:34
 msgid "Portuguese"
-msgstr "Πορτογαλικά"
+msgstr "Ξ ΞΏΟΟ„ΞΏΞ³Ξ±Ξ»ΞΉΞΊΞ¬"
 
 #: common/lib/languageSettings.inc.php:35
 msgid "Romanian"
-msgstr "Ρουμανική"
+msgstr "Ξ΅ΞΏΟ…ΞΌΞ±Ξ½ΞΉΞΊΞ®"
 
 #: common/lib/languageSettings.inc.php:36
 msgid "Russian"
-msgstr "Ρωσική"
+msgstr "Ξ΅Ο‰ΟƒΞΉΞΊΞ®"
 
 #: common/lib/languageSettings.inc.php:37
 msgid "Spanish"
-msgstr "Ισπανικά"
+msgstr "Ξ™ΟƒΟ€Ξ±Ξ½ΞΉΞΊΞ¬"
 
 #: common/lib/languageSettings.inc.php:38
 msgid "Turkish"
-msgstr "Τουρκική"
+msgstr "Ξ¤ΞΏΟ…ΟΞΊΞΉΞΊΞ®"
 
 #: common/lib/languageSettings.inc.php:39
 msgid "Urdu"
@@ -519,231 +519,231 @@ msgstr "Urdu"
 
 #: common/lib/languageSettings.inc.php:53
 msgid "English (C)"
-msgstr "Αγγλικά ©"
+msgstr "Ξ‘Ξ³Ξ³Ξ»ΞΉΞΊΞ¬ Β©"
 
 #: common/lib/SessionInvoice.inc.php:8 common/lib/AgentMoney.inc.php:11
 msgid "Transactions"
-msgstr "Συναλλαγές"
+msgstr "Ξ£Ο…Ξ½Ξ±Ξ»Ξ»Ξ±Ξ³Ξ­Ο‚"
 
 #: common/lib/SessionInvoice.inc.php:8 common/lib/AgentMoney.inc.php:11
 msgid "Transaction"
-msgstr "Συναλλαγή"
+msgstr "Ξ£Ο…Ξ½Ξ±Ξ»Ξ»Ξ±Ξ³Ξ®"
 
 #: common/lib/SessionInvoice.inc.php:24 common/lib/AgentMoney.inc.php:40
 msgid "Description"
-msgstr "Περιγραφή"
+msgstr "Ξ ΞµΟΞΉΞ³ΟΞ±Ο†Ξ®"
 
 #: common/lib/SessionInvoice.inc.php:25
 msgid "Descr"
-msgstr "Περιγρ."
+msgstr "Ξ ΞµΟΞΉΞ³Ο."
 
 #: common/lib/SessionInvoice.inc.php:27
 msgid "Called Number"
-msgstr "Κληθείς Αριθμός"
+msgstr "ΞΞ»Ξ·ΞΈΞµΞ―Ο‚ Ξ‘ΟΞΉΞΈΞΌΟΟ‚"
 
 #: common/lib/SessionInvoice.inc.php:28
 msgid "C. Num"
-msgstr "Κλ. Αρ."
+msgstr "ΞΞ». Ξ‘Ο."
 
 #: common/lib/SessionInvoice.inc.php:31 common/lib/SessionInvoice.inc.php:58
 msgid "Duration"
-msgstr "Διάρκεια"
+msgstr "Ξ”ΞΉΞ¬ΟΞΊΞµΞΉΞ±"
 
 #: common/lib/SessionInvoice.inc.php:32
 msgid "Dur"
-msgstr "Διαρ."
+msgstr "Ξ”ΞΉΞ±Ο."
 
 #: common/lib/SessionInvoice.inc.php:33
 msgid "Credit"
-msgstr "Πίστωση"
+msgstr "Ξ Ξ―ΟƒΟ„Ο‰ΟƒΞ·"
 
 #: common/lib/SessionInvoice.inc.php:34 common/lib/SessionInvoice.inc.php:60
 msgid "Charge"
-msgstr "Χρέωση"
+msgstr "Ξ§ΟΞ­Ο‰ΟƒΞ·"
 
 #: common/lib/SessionInvoice.inc.php:40
 msgid "Per-date calls"
-msgstr "Κλήσεις ανά ημέρα"
+msgstr "ΞΞ»Ξ®ΟƒΞµΞΉΟ‚ Ξ±Ξ½Ξ¬ Ξ·ΞΌΞ­ΟΞ±"
 
 #: common/lib/SessionInvoice.inc.php:56
 msgid "Calls"
-msgstr "Κλήσεις"
+msgstr "ΞΞ»Ξ®ΟƒΞµΞΉΟ‚"
 
 #: common/lib/SessionInvoice.inc.php:63
 msgid "Per day calls"
-msgstr "Κλήσεις ανά ημέρα"
+msgstr "ΞΞ»Ξ®ΟƒΞµΞΉΟ‚ Ξ±Ξ½Ξ¬ Ξ·ΞΌΞ­ΟΞ±"
 
 #: common/lib/SessionInvoice.inc.php:72
 msgid "Session is closed"
-msgstr "Η σύνοδος έκλεισε"
+msgstr "Ξ— ΟƒΟΞ½ΞΏΞ΄ΞΏΟ‚ Ξ­ΞΊΞ»ΞµΞΉΟƒΞµ"
 
 #: common/lib/SessionInvoice.inc.php:74
 msgid "Card is in use, cannot close session now."
-msgstr "Η κάρτα είναι σε χρήση, δεν μπορεί να τερματιστεί η συνεδρία."
+msgstr "Ξ— ΞΊΞ¬ΟΟ„Ξ± ΞµΞ―Ξ½Ξ±ΞΉ ΟƒΞµ Ο‡ΟΞ®ΟƒΞ·, Ξ΄ΞµΞ½ ΞΌΟ€ΞΏΟΞµΞ― Ξ½Ξ± Ο„ΞµΟΞΌΞ±Ο„ΞΉΟƒΟ„ΞµΞ― Ξ· ΟƒΟ…Ξ½ΞµΞ΄ΟΞ―Ξ±."
 
 #: common/lib/SessionInvoice.inc.php:82
 msgid "Pay back %1"
-msgstr "Ρέστα %1"
+msgstr "Ξ΅Ξ­ΟƒΟ„Ξ± %1"
 
 #: common/lib/SessionInvoice.inc.php:83
 msgid "Sesion paid back!"
-msgstr "Δόθηκαν ρέστα!"
+msgstr "Ξ”ΟΞΈΞ·ΞΊΞ±Ξ½ ΟΞ­ΟƒΟ„Ξ±!"
 
 #: common/lib/SessionInvoice.inc.php:85
 msgid "Pay %1"
-msgstr "Πλήρωσε %1"
+msgstr "Ξ Ξ»Ξ®ΟΟ‰ΟƒΞµ %1"
 
 #: common/lib/SessionInvoice.inc.php:86
 msgid "Sesion paid!"
-msgstr "Έγινε πληρωμή!"
+msgstr "ΞΞ³ΞΉΞ½Ξµ Ο€Ξ»Ξ·ΟΟ‰ΞΌΞ®!"
 
 #: common/lib/SessionInvoice.inc.php:92
 msgid "Session could not be paid!"
-msgstr "Η πληρωμή δεν έγινε!"
+msgstr "Ξ— Ο€Ξ»Ξ·ΟΟ‰ΞΌΞ® Ξ΄ΞµΞ½ Ξ­Ξ³ΞΉΞ½Ξµ!"
 
 #: common/lib/SessionInvoice.inc.php:95
 msgid "Back to booths"
-msgstr "Πίσω στους θαλάμους"
+msgstr "Ξ Ξ―ΟƒΟ‰ ΟƒΟ„ΞΏΟ…Ο‚ ΞΈΞ±Ξ»Ξ¬ΞΌΞΏΟ…Ο‚"
 
 #: common/lib/AgentMoney.inc.php:43
 msgid "In"
-msgstr "Μέσα"
+msgstr "ΞΞ­ΟƒΞ±"
 
 #: common/lib/AgentMoney.inc.php:44
 msgid "Out"
-msgstr "Έξω"
+msgstr "ΞΞΎΟ‰"
 
 #: common/lib/AgentMoney.inc.php:50
 msgid "Totals"
-msgstr "Σύνολα"
+msgstr "Ξ£ΟΞ½ΞΏΞ»Ξ±"
 
 #: common/lib/AgentMoney.inc.php:53
 msgid "Sum Total"
-msgstr "Συνολικό ¶θροισμα"
+msgstr "Ξ£Ο…Ξ½ΞΏΞ»ΞΉΞΊΟ Ξ†ΞΈΟΞΏΞΉΟƒΞΌΞ±"
 
 #: common/lib/AgentMoney.inc.php:64
 msgid "Agent Totals"
-msgstr "Σύνολα Μαγαζιού"
+msgstr "Ξ£ΟΞ½ΞΏΞ»Ξ± ΞΞ±Ξ³Ξ±Ξ¶ΞΉΞΏΟ"
 
 #: common/lib/AgentMoney.inc.php:95
 msgid "Totals could not be calculated!"
-msgstr "Τα σύνολα δεν μπόρεσαν να υπολογιστούν!"
+msgstr "Ξ¤Ξ± ΟƒΟΞ½ΞΏΞ»Ξ± Ξ΄ΞµΞ½ ΞΌΟ€ΟΟΞµΟƒΞ±Ξ½ Ξ½Ξ± Ο…Ο€ΞΏΞ»ΞΏΞ³ΞΉΟƒΟ„ΞΏΟΞ½!"
 
 #: common/lib/AgentMoney.inc.php:96
 msgid "Total sum credited to customers"
-msgstr "Σύνολο πιστωμένο σε πελάτες"
+msgstr "Ξ£ΟΞ½ΞΏΞ»ΞΏ Ο€ΞΉΟƒΟ„Ο‰ΞΌΞ­Ξ½ΞΏ ΟƒΞµ Ο€ΞµΞ»Ξ¬Ο„ΞµΟ‚"
 
 #: common/lib/AgentMoney.inc.php:97
 msgid "Total sum debited from customers"
-msgstr "Σύνολο οφειλών από πελάτες"
+msgstr "Ξ£ΟΞ½ΞΏΞ»ΞΏ ΞΏΟ†ΞµΞΉΞ»ΟΞ½ Ξ±Ο€Ο Ο€ΞµΞ»Ξ¬Ο„ΞµΟ‚"
 
 #: common/lib/AgentMoney.inc.php:98
 msgid "Total potential debit from customers"
-msgstr "Συνολική πιθανή οφειλή από πελάτες"
+msgstr "Ξ£Ο…Ξ½ΞΏΞ»ΞΉΞΊΞ® Ο€ΞΉΞΈΞ±Ξ½Ξ® ΞΏΟ†ΞµΞΉΞ»Ξ® Ξ±Ο€Ο Ο€ΞµΞ»Ξ¬Ο„ΞµΟ‚"
 
 #: common/lib/AgentMoney.inc.php:99
 msgid "Total calls made by customers"
-msgstr "Σύνολο κλήσεων από πελάτες"
+msgstr "Ξ£ΟΞ½ΞΏΞ»ΞΏ ΞΊΞ»Ξ®ΟƒΞµΟ‰Ξ½ Ξ±Ο€Ο Ο€ΞµΞ»Ξ¬Ο„ΞµΟ‚"
 
 #: common/lib/AgentMoney.inc.php:100
 msgid "Wholesale price of calls"
-msgstr "Χονδρική τιμή κλήσεων"
+msgstr "Ξ§ΞΏΞ½Ξ΄ΟΞΉΞΊΞ® Ο„ΞΉΞΌΞ® ΞΊΞ»Ξ®ΟƒΞµΟ‰Ξ½"
 
 #: common/lib/AgentMoney.inc.php:101
 msgid "Estimated profit from calls"
-msgstr "Εκτιμώμενο κέρδος από κλήσεις"
+msgstr "Ξ•ΞΊΟ„ΞΉΞΌΟΞΌΞµΞ½ΞΏ ΞΊΞ­ΟΞ΄ΞΏΟ‚ Ξ±Ο€Ο ΞΊΞ»Ξ®ΟƒΞµΞΉΟ‚"
 
 #: common/lib/AgentMoney.inc.php:102
 msgid "Outstanding balance"
-msgstr "Λογιστικό υπόλοιπο"
+msgstr "Ξ›ΞΏΞ³ΞΉΟƒΟ„ΞΉΞΊΟ Ο…Ο€ΟΞ»ΞΏΞΉΟ€ΞΏ"
 
 #: common/lib/AgentMoney.inc.php:103
 msgid "Credit Limit"
-msgstr "Πιστωτικό όριο"
+msgstr "Ξ ΞΉΟƒΟ„Ο‰Ο„ΞΉΞΊΟ ΟΟΞΉΞΏ"
 
 #: common/lib/AgentMoney.inc.php:104
 msgid "Estimated Days left"
-msgstr "Εκτιμώμενο υπόλοιπο σε ημέρες"
+msgstr "Ξ•ΞΊΟ„ΞΉΞΌΟΞΌΞµΞ½ΞΏ Ο…Ο€ΟΞ»ΞΏΞΉΟ€ΞΏ ΟƒΞµ Ξ·ΞΌΞ­ΟΞµΟ‚"
 
 #: common/lib/Class.CallShop.inc.php:54
 msgid "Open"
-msgstr "¶νοιγμα"
+msgstr "Ξ†Ξ½ΞΏΞΉΞ³ΞΌΞ±"
 
 #: common/lib/Class.CallShop.inc.php:54
 msgid "Waiting for response"
-msgstr "Αναμονή για απόκριση"
+msgstr "Ξ‘Ξ½Ξ±ΞΌΞΏΞ½Ξ® Ξ³ΞΉΞ± Ξ±Ο€ΟΞΊΟΞΉΟƒΞ·"
 
 #: common/lib/Class.CallShop.inc.php:54
 msgid "Receiving"
-msgstr "Λήψη"
+msgstr "Ξ›Ξ®ΟΞ·"
 
 #: common/lib/Class.CallShop.inc.php:95
 msgid "Cannot locate booths"
-msgstr "Δε βρέθηκαν θάλαμοι"
+msgstr "Ξ”Ξµ Ξ²ΟΞ­ΞΈΞ·ΞΊΞ±Ξ½ ΞΈΞ¬Ξ»Ξ±ΞΌΞΏΞΉ"
 
 #: common/lib/Class.CallShop.inc.php:103
 msgid "No booths"
-msgstr "Κανένας θάλαμος"
+msgstr "ΞΞ±Ξ½Ξ­Ξ½Ξ±Ο‚ ΞΈΞ¬Ξ»Ξ±ΞΌΞΏΟ‚"
 
 #: common/lib/Class.CallShop.inc.php:106
 msgid "No booths!<br>Please ask the administrators to create you some."
-msgstr "Κανένας θάλαμος<br>Ζητήστε από τους διαχειριστές να σας το ρυθμίσουν."
+msgstr "ΞΞ±Ξ½Ξ­Ξ½Ξ±Ο‚ ΞΈΞ¬Ξ»Ξ±ΞΌΞΏΟ‚<br>Ξ–Ξ·Ο„Ξ®ΟƒΟ„Ξµ Ξ±Ο€Ο Ο„ΞΏΟ…Ο‚ Ξ΄ΞΉΞ±Ο‡ΞµΞΉΟΞΉΟƒΟ„Ξ­Ο‚ Ξ½Ξ± ΟƒΞ±Ο‚ Ο„ΞΏ ΟΟ…ΞΈΞΌΞ―ΟƒΞΏΟ…Ξ½."
 
 #: common/lib/Class.CallShop.inc.php:113
 msgid "Welcome!"
-msgstr "Καλωσήλθατε!"
+msgstr "ΞΞ±Ξ»Ο‰ΟƒΞ®Ξ»ΞΈΞ±Ο„Ξµ!"
 
 #: common/lib/Class.CallShop.inc.php:129
 msgid "Credit:"
-msgstr "Πίστωση:"
+msgstr "Ξ Ξ―ΟƒΟ„Ο‰ΟƒΞ·:"
 
 #: common/lib/Class.CallShop.inc.php:132
 msgid "Stop"
-msgstr "Διακοπή"
+msgstr "Ξ”ΞΉΞ±ΞΊΞΏΟ€Ξ®"
 
 #: common/lib/Class.CallShop.inc.php:133
 msgid "Pay"
-msgstr "Πληρωμή"
+msgstr "Ξ Ξ»Ξ·ΟΟ‰ΞΌΞ®"
 
 #: common/lib/Class.CallShop.inc.php:134
 msgid "Enable"
-msgstr "Ενεργοποίηση"
+msgstr "Ξ•Ξ½ΞµΟΞ³ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ·"
 
 #: common/lib/Class.CallShop.inc.php:135
 msgid "Disable"
-msgstr "Απενεργοποίηση"
+msgstr "Ξ‘Ο€ΞµΞ½ΞµΟΞ³ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ·"
 
 #: common/lib/Class.CallShop.inc.php:136
 msgid "Unload"
-msgstr "Αποφόρτωση"
+msgstr "Ξ‘Ο€ΞΏΟ†ΟΟΟ„Ο‰ΟƒΞ·"
 
 #: common/lib/Class.CallShop.inc.php:137
 msgid "One-Time"
-msgstr "Μιας-φοράς"
+msgstr "ΞΞΉΞ±Ο‚-Ο†ΞΏΟΞ¬Ο‚"
 
 #: common/lib/Class.CallShop.inc.php:138 common/lib/BoothsXML.inc.php:36
 msgid "Empty"
-msgstr "Κενό"
+msgstr "ΞΞµΞ½Ο"
 
 #: common/lib/Class.CallShop.inc.php:139
 msgid "Member"
-msgstr "Μέλος"
+msgstr "ΞΞ­Ξ»ΞΏΟ‚"
 
 #: common/lib/Class.CallShop.inc.php:140
 msgid "New"
-msgstr "Νέο"
+msgstr "ΞΞ­ΞΏ"
 
 #: common/lib/Class.CallShop.inc.php:143
 msgid "Add:"
-msgstr "Προσθήκη:"
+msgstr "Ξ ΟΞΏΟƒΞΈΞ®ΞΊΞ·:"
 
 #: common/lib/Class.CallShop.inc.php:159
 msgid "Refresh"
-msgstr "Ανανέωση"
+msgstr "Ξ‘Ξ½Ξ±Ξ½Ξ­Ο‰ΟƒΞ·"
 
 #: common/lib/Class.CallShop.inc.php:161
 msgid "Response:"
-msgstr "Απόκριση: "
+msgstr "Ξ‘Ο€ΟΞΊΟΞΉΟƒΞ·: "
 
 #: common/lib/BoothsXML.inc.php:35
 msgid "N/A"
@@ -751,463 +751,463 @@ msgstr "N/A"
 
 #: common/lib/BoothsXML.inc.php:35
 msgid "Not available, no cards configured."
-msgstr "Δεν είναι διαθέσιμος, δεν ρυθμίστηκαν κάρτες."
+msgstr "Ξ”ΞµΞ½ ΞµΞ―Ξ½Ξ±ΞΉ Ξ΄ΞΉΞ±ΞΈΞ­ΟƒΞΉΞΌΞΏΟ‚, Ξ΄ΞµΞ½ ΟΟ…ΞΈΞΌΞ―ΟƒΟ„Ξ·ΞΊΞ±Ξ½ ΞΊΞ¬ΟΟ„ΞµΟ‚."
 
 #: common/lib/BoothsXML.inc.php:36
 msgid "No customer attached."
-msgstr "Δεν έχει συνδεθεί με πελάτη."
+msgstr "Ξ”ΞµΞ½ Ξ­Ο‡ΞµΞΉ ΟƒΟ…Ξ½Ξ΄ΞµΞΈΞµΞ― ΞΌΞµ Ο€ΞµΞ»Ξ¬Ο„Ξ·."
 
 #: common/lib/BoothsXML.inc.php:37
 msgid "Idle"
-msgstr "Αδρανής"
+msgstr "Ξ‘Ξ΄ΟΞ±Ξ½Ξ®Ο‚"
 
 #: common/lib/BoothsXML.inc.php:37
 msgid "Customer attached, inactive"
-msgstr "Συνδέθηκε με πελάτη, ανενεργός"
+msgstr "Ξ£Ο…Ξ½Ξ΄Ξ­ΞΈΞ·ΞΊΞµ ΞΌΞµ Ο€ΞµΞ»Ξ¬Ο„Ξ·, Ξ±Ξ½ΞµΞ½ΞµΟΞ³ΟΟ‚"
 
 #: common/lib/BoothsXML.inc.php:38
 msgid "Ready"
-msgstr "Έτοιμο"
+msgstr "ΞΟ„ΞΏΞΉΞΌΞΏ"
 
 #: common/lib/BoothsXML.inc.php:38
 msgid "Waiting for calls"
-msgstr "Αναμονή για κλήσεις"
+msgstr "Ξ‘Ξ½Ξ±ΞΌΞΏΞ½Ξ® Ξ³ΞΉΞ± ΞΊΞ»Ξ®ΟƒΞµΞΉΟ‚"
 
 #: common/lib/BoothsXML.inc.php:39
 msgid "Active"
-msgstr "Ενεργό"
+msgstr "Ξ•Ξ½ΞµΟΞ³Ο"
 
 #: common/lib/BoothsXML.inc.php:39
 msgid "Calls made, charged"
-msgstr "Έγιναν κλήσεις, χρεώθηκε"
+msgstr "ΞΞ³ΞΉΞ½Ξ±Ξ½ ΞΊΞ»Ξ®ΟƒΞµΞΉΟ‚, Ο‡ΟΞµΟΞΈΞ·ΞΊΞµ"
 
 #: common/lib/BoothsXML.inc.php:40
 msgid "Disabled"
-msgstr "Απενεργοποιημένο"
+msgstr "Ξ‘Ο€ΞµΞ½ΞµΟΞ³ΞΏΟ€ΞΏΞΉΞ·ΞΌΞ­Ξ½ΞΏ"
 
 #: common/lib/BoothsXML.inc.php:40
 msgid "Disabled by the agent"
-msgstr "Απενεργοποιημένος από τον πράκτορα"
+msgstr "Ξ‘Ο€ΞµΞ½ΞµΟΞ³ΞΏΟ€ΞΏΞΉΞ·ΞΌΞ­Ξ½ΞΏΟ‚ Ξ±Ο€Ο Ο„ΞΏΞ½ Ο€ΟΞ¬ΞΊΟ„ΞΏΟΞ±"
 
 #: common/lib/BoothsXML.inc.php:41
 msgid "Stopped"
-msgstr "Διακόπηκε"
+msgstr "Ξ”ΞΉΞ±ΞΊΟΟ€Ξ·ΞΊΞµ"
 
 #: common/lib/BoothsXML.inc.php:41
 msgid "Calls made, charged, stopped"
-msgstr "Έγιναν κλήσεις, χρεώθηκε, σταματημένο."
+msgstr "ΞΞ³ΞΉΞ½Ξ±Ξ½ ΞΊΞ»Ξ®ΟƒΞµΞΉΟ‚, Ο‡ΟΞµΟΞΈΞ·ΞΊΞµ, ΟƒΟ„Ξ±ΞΌΞ±Ο„Ξ·ΞΌΞ­Ξ½ΞΏ."
 
 #: common/lib/BoothsXML.inc.php:54
 msgid "Booth disabled"
-msgstr "Θάλαμος απενεργοποιήθηκε"
+msgstr "ΞΞ¬Ξ»Ξ±ΞΌΞΏΟ‚ Ξ±Ο€ΞµΞ½ΞµΟΞ³ΞΏΟ€ΞΏΞΉΞ®ΞΈΞ·ΞΊΞµ"
 
 #: common/lib/BoothsXML.inc.php:62
 msgid "Booth stopped"
-msgstr "Θάλαμος σταμάτησε"
+msgstr "ΞΞ¬Ξ»Ξ±ΞΌΞΏΟ‚ ΟƒΟ„Ξ±ΞΌΞ¬Ο„Ξ·ΟƒΞµ"
 
 #: common/lib/BoothsXML.inc.php:64 common/lib/BoothsXML.inc.php:76
 #: common/lib/BoothsXML.inc.php:88 common/lib/BoothsXML.inc.php:100
 #: common/lib/BoothsXML.inc.php:140
 msgid "Action failed:"
-msgstr "Αποτυχία ενέργειας:"
+msgstr "Ξ‘Ο€ΞΏΟ„Ο…Ο‡Ξ―Ξ± ΞµΞ½Ξ­ΟΞ³ΞµΞΉΞ±Ο‚:"
 
 #: common/lib/BoothsXML.inc.php:74 common/lib/BoothsXML.inc.php:86
 #: common/lib/BoothsXML.inc.php:98
 msgid "Booth started"
-msgstr "Ο θάλαμος ξεκίνησε"
+msgstr "Ξ ΞΈΞ¬Ξ»Ξ±ΞΌΞΏΟ‚ ΞΎΞµΞΊΞ―Ξ½Ξ·ΟƒΞµ"
 
 #: common/lib/BoothsXML.inc.php:109
 msgid "Invalid sum for refill"
-msgstr "¶κυρο ποσόν για πίστωση"
+msgstr "Ξ†ΞΊΟ…ΟΞΏ Ο€ΞΏΟƒΟΞ½ Ξ³ΞΉΞ± Ο€Ξ―ΟƒΟ„Ο‰ΟƒΞ·"
 
 #: common/lib/BoothsXML.inc.php:120
 msgid "Credit added to booth"
-msgstr "Η πίστωση προστέθηκε στο τηλέφωνο"
+msgstr "Ξ— Ο€Ξ―ΟƒΟ„Ο‰ΟƒΞ· Ο€ΟΞΏΟƒΟ„Ξ­ΞΈΞ·ΞΊΞµ ΟƒΟ„ΞΏ Ο„Ξ·Ξ»Ξ­Ο†Ο‰Ξ½ΞΏ"
 
 #: common/lib/BoothsXML.inc.php:123
 msgid "Refill failed: do you have enough credit?"
-msgstr "Η προσθήκη απέτυχε: έχετε το απαραίτητο υπόλοιπο;"
+msgstr "Ξ— Ο€ΟΞΏΟƒΞΈΞ®ΞΊΞ· Ξ±Ο€Ξ­Ο„Ο…Ο‡Ξµ: Ξ­Ο‡ΞµΟ„Ξµ Ο„ΞΏ Ξ±Ο€Ξ±ΟΞ±Ξ―Ο„Ξ·Ο„ΞΏ Ο…Ο€ΟΞ»ΞΏΞΉΟ€ΞΏ;"
 
 #: common/lib/BoothsXML.inc.php:138
 msgid "Booth emptied"
-msgstr "Ο θάλαμος άδειασε"
+msgstr "Ξ ΞΈΞ¬Ξ»Ξ±ΞΌΞΏΟ‚ Ξ¬Ξ΄ΞµΞΉΞ±ΟƒΞµ"
 
 #: common/lib/BoothsXML.inc.php:167 common/lib/BoothsXML.inc.php:175
 msgid "Database query failed!"
-msgstr "Η αναζήτηση στη βάση δεδομένων απέτυχε!"
+msgstr "Ξ— Ξ±Ξ½Ξ±Ξ¶Ξ®Ο„Ξ·ΟƒΞ· ΟƒΟ„Ξ· Ξ²Ξ¬ΟƒΞ· Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ο‰Ξ½ Ξ±Ο€Ξ­Ο„Ο…Ο‡Ξµ!"
 
 #~ msgid "DISPLAY"
-#~ msgstr "ΑΠΕΙΚΟΝΙΣΗ"
+#~ msgstr "Ξ‘Ξ Ξ•Ξ™ΞΞΞΞ™Ξ£Ξ—"
 
 #, fuzzy
 #~ msgid "Invalid card number lenght defined in configuration."
-#~ msgstr "Λάθος μήκος κάρτας ορισμένο στις ρυθμίσεις."
+#~ msgstr "Ξ›Ξ¬ΞΈΞΏΟ‚ ΞΌΞ®ΞΊΞΏΟ‚ ΞΊΞ¬ΟΟ„Ξ±Ο‚ ΞΏΟΞΉΟƒΞΌΞ­Ξ½ΞΏ ΟƒΟ„ΞΉΟ‚ ΟΟ…ΞΈΞΌΞ―ΟƒΞµΞΉΟ‚."
 
 #, fuzzy
 #~ msgid "Error : Not enough credit to call !"
-#~ msgstr "Σφάλμα: Δεν υπάρχει πίστωση για την κλήση!"
+#~ msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ±: Ξ”ΞµΞ½ Ο…Ο€Ξ¬ΟΟ‡ΞµΞΉ Ο€Ξ―ΟƒΟ„Ο‰ΟƒΞ· Ξ³ΞΉΞ± Ο„Ξ·Ξ½ ΞΊΞ»Ξ®ΟƒΞ·!"
 
 #, fuzzy
 #~ msgid "Error : Card is not active!"
-#~ msgstr "Σφάλμα: Η κάρτα δεν είναι ενεργή!"
+#~ msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ±: Ξ— ΞΊΞ¬ΟΟ„Ξ± Ξ΄ΞµΞ½ ΞµΞ―Ξ½Ξ±ΞΉ ΞµΞ½ΞµΟΞ³Ξ®!"
 
 #, fuzzy
 #~ msgid "Error : Card is actually in use!"
-#~ msgstr "Σφάλμα: Η κάρτα είναι σε χρήση!"
+#~ msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ±: Ξ— ΞΊΞ¬ΟΟ„Ξ± ΞµΞ―Ξ½Ξ±ΞΉ ΟƒΞµ Ο‡ΟΞ®ΟƒΞ·!"
 
 #, fuzzy
 #~ msgid "Error : Card have expired!"
-#~ msgstr "Σφάλμα: Η κάρτα έχει λήξει!"
+#~ msgstr "Ξ£Ο†Ξ¬Ξ»ΞΌΞ±: Ξ— ΞΊΞ¬ΟΟ„Ξ± Ξ­Ο‡ΞµΞΉ Ξ»Ξ®ΞΎΞµΞΉ!"
 
 #, fuzzy
 #~ msgid "Create a new "
-#~ msgstr "Δημιουργία νέου στοιχείου: "
+#~ msgstr "Ξ”Ξ·ΞΌΞΉΞΏΟ…ΟΞ³Ξ―Ξ± Ξ½Ξ­ΞΏΟ… ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…: "
 
 #~ msgid "Message"
-#~ msgstr "Μήνυμα"
+#~ msgstr "ΞΞ®Ξ½Ο…ΞΌΞ±"
 
 #~ msgid "You have "
-#~ msgstr "Έχετε"
+#~ msgstr "ΞΟ‡ΞµΟ„Ξµ"
 
 #~ msgid "No data found !"
-#~ msgstr "Δεν βρέθηκαν δεδομένα!"
+#~ msgstr "Ξ”ΞµΞ½ Ξ²ΟΞ­ΞΈΞ·ΞΊΞ±Ξ½ Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ξ±!"
 
 #~ msgid "Remove this "
-#~ msgstr "Αφαίρεση αυτού"
+#~ msgstr "Ξ‘Ο†Ξ±Ξ―ΟΞµΟƒΞ· Ξ±Ο…Ο„ΞΏΟ"
 
 #~ msgid "THERE IS NO RECORD !"
-#~ msgstr "ΔΕΝ ΥΠΑΡΧΕΙ ΕΓΓΡΑΦΗ!"
+#~ msgstr "Ξ”Ξ•Ξ Ξ¥Ξ Ξ‘Ξ΅Ξ§Ξ•Ξ™ Ξ•Ξ“Ξ“Ξ΅Ξ‘Ξ¦Ξ—!"
 
 #~ msgid "DIRECTORY"
-#~ msgstr "ΚΑΤΑΛΟΓΟΣ"
+#~ msgstr "ΞΞ‘Ξ¤Ξ‘Ξ›ΞΞ“ΞΞ£"
 
 #~ msgid "Define criteria to make a precise search"
-#~ msgstr "Μπορείτε να ορίσετε κάποια κριτήρια για να κάνετε ακριβή αναζήτηση"
+#~ msgstr "ΞΟ€ΞΏΟΞµΞ―Ο„Ξµ Ξ½Ξ± ΞΏΟΞ―ΟƒΞµΟ„Ξµ ΞΊΞ¬Ο€ΞΏΞΉΞ± ΞΊΟΞΉΟ„Ξ®ΟΞΉΞ± Ξ³ΞΉΞ± Ξ½Ξ± ΞΊΞ¬Ξ½ΞµΟ„Ξµ Ξ±ΞΊΟΞΉΞ²Ξ® Ξ±Ξ½Ξ±Ξ¶Ξ®Ο„Ξ·ΟƒΞ·"
 
 #, fuzzy
 #~ msgid "You can browse through our"
-#~ msgstr "Μπορείτε να ψάξετε ανάμεσα στα"
+#~ msgstr "ΞΟ€ΞΏΟΞµΞ―Ο„Ξµ Ξ½Ξ± ΟΞ¬ΞΎΞµΟ„Ξµ Ξ±Ξ½Ξ¬ΞΌΞµΟƒΞ± ΟƒΟ„Ξ±"
 
 #, fuzzy
 #~ msgid "and modify their different properties<br>"
-#~ msgstr "και να αλλάξετε τις ιδιότητές τους<br>"
+#~ msgstr "ΞΊΞ±ΞΉ Ξ½Ξ± Ξ±Ξ»Ξ»Ξ¬ΞΎΞµΟ„Ξµ Ο„ΞΉΟ‚ ΞΉΞ΄ΞΉΟΟ„Ξ·Ο„Ξ­Ο‚ Ο„ΞΏΟ…Ο‚<br>"
 
 #, fuzzy
 #~ msgid "Delete this record"
-#~ msgstr "Διαγραφή της εγγραφής"
+#~ msgstr "Ξ”ΞΉΞ±Ξ³ΟΞ±Ο†Ξ® Ο„Ξ·Ο‚ ΞµΞ³Ξ³ΟΞ±Ο†Ξ®Ο‚"
 
 #, fuzzy
 #~ msgid "Edit this record"
-#~ msgstr "Επεξεργασία εγγραφής"
+#~ msgstr "Ξ•Ο€ΞµΞΎΞµΟΞ³Ξ±ΟƒΞ―Ξ± ΞµΞ³Ξ³ΟΞ±Ο†Ξ®Ο‚"
 
 #, fuzzy
 #~ msgid ""
 #~ "The document has been created correctly. Now, you can define the "
 #~ "different tariff that you want to associate."
 #~ msgstr ""
-#~ "Το έγγραφο έχει δημιουργηθεί. Τώρα μπορείτε να ορίσετε τις διάφορες "
-#~ "ταρίφες που θα του αναθέσετε."
+#~ "Ξ¤ΞΏ Ξ­Ξ³Ξ³ΟΞ±Ο†ΞΏ Ξ­Ο‡ΞµΞΉ Ξ΄Ξ·ΞΌΞΉΞΏΟ…ΟΞ³Ξ·ΞΈΞµΞ―. Ξ¤ΟΟΞ± ΞΌΟ€ΞΏΟΞµΞ―Ο„Ξµ Ξ½Ξ± ΞΏΟΞ―ΟƒΞµΟ„Ξµ Ο„ΞΉΟ‚ Ξ΄ΞΉΞ¬Ο†ΞΏΟΞµΟ‚ "
+#~ "Ο„Ξ±ΟΞ―Ο†ΞµΟ‚ Ο€ΞΏΟ… ΞΈΞ± Ο„ΞΏΟ… Ξ±Ξ½Ξ±ΞΈΞ­ΟƒΞµΟ„Ξµ."
 
 #, fuzzy
 #~ msgid ""
 #~ "You can modify, through the following form, the different properties of "
 #~ "your"
-#~ msgstr "Μπορείτε να επεξεργαστείτε, στην παρακάτω φόρμα, τις ιδιότητες του"
+#~ msgstr "ΞΟ€ΞΏΟΞµΞ―Ο„Ξµ Ξ½Ξ± ΞµΟ€ΞµΞΎΞµΟΞ³Ξ±ΟƒΟ„ΞµΞ―Ο„Ξµ, ΟƒΟ„Ξ·Ξ½ Ο€Ξ±ΟΞ±ΞΊΞ¬Ο„Ο‰ Ο†ΟΟΞΌΞ±, Ο„ΞΉΟ‚ ΞΉΞ΄ΞΉΟΟ„Ξ·Ο„ΞµΟ‚ Ο„ΞΏΟ…"
 
 #, fuzzy
 #~ msgid "If you really want remove this"
-#~ msgstr "Αν θέλετε πραγματικά να διαγράψετε το"
+#~ msgstr "Ξ‘Ξ½ ΞΈΞ­Ξ»ΞµΟ„Ξµ Ο€ΟΞ±Ξ³ΞΌΞ±Ο„ΞΉΞΊΞ¬ Ξ½Ξ± Ξ΄ΞΉΞ±Ξ³ΟΞ¬ΟΞµΟ„Ξµ Ο„ΞΏ"
 
 #, fuzzy
 #~ msgid "Click on the delete button."
-#~ msgstr "Πατήστε στο πλήκτρο της διαγραφής."
+#~ msgstr "Ξ Ξ±Ο„Ξ®ΟƒΟ„Ξµ ΟƒΟ„ΞΏ Ο€Ξ»Ξ®ΞΊΟ„ΟΞΏ Ο„Ξ·Ο‚ Ξ΄ΞΉΞ±Ξ³ΟΞ±Ο†Ξ®Ο‚."
 
 #, fuzzy
 #~ msgid "One"
-#~ msgstr "Ένα"
+#~ msgstr "ΞΞ½Ξ±"
 
 #, fuzzy
 #~ msgid "has been deleted!"
-#~ msgstr "διεγραμμένο!"
+#~ msgstr "Ξ΄ΞΉΞµΞ³ΟΞ±ΞΌΞΌΞ­Ξ½ΞΏ!"
 
 #, fuzzy
 #~ msgid "you can add easily a new"
-#~ msgstr "μπορείτε εύκολα να προσθέσετε ένα νέο στοιχείο "
+#~ msgstr "ΞΌΟ€ΞΏΟΞµΞ―Ο„Ξµ ΞµΟΞΊΞΏΞ»Ξ± Ξ½Ξ± Ο€ΟΞΏΟƒΞΈΞ­ΟƒΞµΟ„Ξµ Ξ­Ξ½Ξ± Ξ½Ξ­ΞΏ ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏ "
 
 #, fuzzy
 #~ msgid "Fill the following fields and confirm by clicking on the button add."
 #~ msgstr ""
-#~ "Συμπληρώστε τα παρακάτω πεδία και επιβεβαιώστε με το πλήκτρο της "
-#~ "προσθήκης."
+#~ "Ξ£Ο…ΞΌΟ€Ξ»Ξ·ΟΟΟƒΟ„Ξµ Ο„Ξ± Ο€Ξ±ΟΞ±ΞΊΞ¬Ο„Ο‰ Ο€ΞµΞ΄Ξ―Ξ± ΞΊΞ±ΞΉ ΞµΟ€ΞΉΞ²ΞµΞ²Ξ±ΞΉΟΟƒΟ„Ξµ ΞΌΞµ Ο„ΞΏ Ο€Ξ»Ξ®ΞΊΟ„ΟΞΏ Ο„Ξ·Ο‚ "
+#~ "Ο€ΟΞΏΟƒΞΈΞ®ΞΊΞ·Ο‚."
 
 #, fuzzy
 #~ msgid "Add a"
-#~ msgstr "Προσθήκη ενός στοιχείου: "
+#~ msgstr "Ξ ΟΞΏΟƒΞΈΞ®ΞΊΞ· ΞµΞ½ΟΟ‚ ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…: "
 
 #, fuzzy
 #~ msgid "now."
-#~ msgstr "τώρα."
+#~ msgstr "Ο„ΟΟΞ±."
 
 #, fuzzy
 #~ msgid "Your new"
-#~ msgstr "Το νέο σας"
+#~ msgstr "Ξ¤ΞΏ Ξ½Ξ­ΞΏ ΟƒΞ±Ο‚"
 
 #, fuzzy
 #~ msgid "has been inserted. <br>"
-#~ msgstr "έχει εισαχθεί.<br>"
+#~ msgstr "Ξ­Ο‡ΞµΞΉ ΞµΞΉΟƒΞ±Ο‡ΞΈΞµΞ―.<br>"
 
 #, fuzzy
 #~ msgid "You cannot choose more than one !"
-#~ msgstr "Δεν μπορείτε να επιλέξετε πάνω από ένα!"
+#~ msgstr "Ξ”ΞµΞ½ ΞΌΟ€ΞΏΟΞµΞ―Ο„Ξµ Ξ½Ξ± ΞµΟ€ΞΉΞ»Ξ­ΞΎΞµΟ„Ξµ Ο€Ξ¬Ξ½Ο‰ Ξ±Ο€Ο Ξ­Ξ½Ξ±!"
 
 #, fuzzy
 #~ msgid "Are you sure to delete all records connected to this instance."
-#~ msgstr "στο όλα συνδέθηκε στο."
+#~ msgstr "ΟƒΟ„ΞΏ ΟΞ»Ξ± ΟƒΟ…Ξ½Ξ΄Ξ­ΞΈΞ·ΞΊΞµ ΟƒΟ„ΞΏ."
 
 #, fuzzy
 #~ msgid "DELETE"
-#~ msgstr "ΗΜ/ΝΙΑ"
+#~ msgstr "Ξ—Ξ/ΞΞ™Ξ‘"
 
 #, fuzzy
 #~ msgid "Delete this "
-#~ msgstr "Διαγραφή του στοιχείου: "
+#~ msgstr "Ξ”ΞΉΞ±Ξ³ΟΞ±Ο†Ξ® Ο„ΞΏΟ… ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…: "
 
 #, fuzzy
 #~ msgid "Edit this "
-#~ msgstr "Επεξεργασία του στοιχείου: "
+#~ msgstr "Ξ•Ο€ΞµΞΎΞµΟΞ³Ξ±ΟƒΞ―Ξ± Ο„ΞΏΟ… ΟƒΟ„ΞΏΞΉΟ‡ΞµΞ―ΞΏΟ…: "
 
 #, fuzzy
 #~ msgid "You can browse through our "
-#~ msgstr "Μπορείτε να περιηγηθείτε ανάμεσα στα "
+#~ msgstr "ΞΟ€ΞΏΟΞµΞ―Ο„Ξµ Ξ½Ξ± Ο€ΞµΟΞΉΞ·Ξ³Ξ·ΞΈΞµΞ―Ο„Ξµ Ξ±Ξ½Ξ¬ΞΌΞµΟƒΞ± ΟƒΟ„Ξ± "
 
 #, fuzzy
 #~ msgid " and modify their different properties<br>"
-#~ msgstr "και<br>"
+#~ msgstr "ΞΊΞ±ΞΉ<br>"
 
 #, fuzzy
 #~ msgid "(at least 3 characters)"
-#~ msgstr "(τουλάχιστον 3 χαρακτήρες)"
+#~ msgstr "(Ο„ΞΏΟ…Ξ»Ξ¬Ο‡ΞΉΟƒΟ„ΞΏΞ½ 3 Ο‡Ξ±ΟΞ±ΞΊΟ„Ξ®ΟΞµΟ‚)"
 
 #, fuzzy
 #~ msgid "(must match email structure. Example : name@domain.com)"
-#~ msgstr "(πρέπει να φαίνεται σαν e-mail, π.χ.: name@domain.com)"
+#~ msgstr "(Ο€ΟΞ­Ο€ΞµΞΉ Ξ½Ξ± Ο†Ξ±Ξ―Ξ½ΞµΟ„Ξ±ΞΉ ΟƒΞ±Ξ½ e-mail, Ο€.Ο‡.: name@domain.com)"
 
 #, fuzzy
 #~ msgid "(at least 5 successive characters appear at the end of this string)"
 #~ msgstr ""
-#~ "(τουλάχιστον 5 διαδοχικοί χαρακτήρες εμφανίζονται στο τέλος του κειμένου)"
+#~ "(Ο„ΞΏΟ…Ξ»Ξ¬Ο‡ΞΉΟƒΟ„ΞΏΞ½ 5 Ξ΄ΞΉΞ±Ξ΄ΞΏΟ‡ΞΉΞΊΞΏΞ― Ο‡Ξ±ΟΞ±ΞΊΟ„Ξ®ΟΞµΟ‚ ΞµΞΌΟ†Ξ±Ξ½Ξ―Ξ¶ΞΏΞ½Ο„Ξ±ΞΉ ΟƒΟ„ΞΏ Ο„Ξ­Ξ»ΞΏΟ‚ Ο„ΞΏΟ… ΞΊΞµΞΉΞΌΞ­Ξ½ΞΏΟ…)"
 
 #, fuzzy
 #~ msgid "(at least 4 characters)"
-#~ msgstr "(τουλάχιστον 4 χαρακτήρες)"
+#~ msgstr "(Ο„ΞΏΟ…Ξ»Ξ¬Ο‡ΞΉΟƒΟ„ΞΏΞ½ 4 Ο‡Ξ±ΟΞ±ΞΊΟ„Ξ®ΟΞµΟ‚)"
 
 #, fuzzy
 #~ msgid "(number format)"
-#~ msgstr "(αριθμητική μορφή)"
+#~ msgstr "(Ξ±ΟΞΉΞΈΞΌΞ·Ο„ΞΉΞΊΞ® ΞΌΞΏΟΟ†Ξ®)"
 
 #, fuzzy
 #~ msgid "(only number with more that 8 digits)"
-#~ msgstr "(μόνο αριθμός, με περισσότερα από 8 ψηφία)"
+#~ msgstr "(ΞΌΟΞ½ΞΏ Ξ±ΟΞΉΞΈΞΌΟΟ‚, ΞΌΞµ Ο€ΞµΟΞΉΟƒΟƒΟΟ„ΞµΟΞ± Ξ±Ο€Ο 8 ΟΞ·Ο†Ξ―Ξ±)"
 
 #, fuzzy
 #~ msgid "(at least 8 digits using . or - or the space key)"
-#~ msgstr "(τουλάχιστον 8 ψηφία με . ή - ή το διάστημα) "
+#~ msgstr "(Ο„ΞΏΟ…Ξ»Ξ¬Ο‡ΞΉΟƒΟ„ΞΏΞ½ 8 ΟΞ·Ο†Ξ―Ξ± ΞΌΞµ . Ξ® - Ξ® Ο„ΞΏ Ξ΄ΞΉΞ¬ΟƒΟ„Ξ·ΞΌΞ±) "
 
 #, fuzzy
 #~ msgid "network adress format"
-#~ msgstr "μορφή διευθύνσεων δικτύου"
+#~ msgstr "ΞΌΞΏΟΟ†Ξ® Ξ΄ΞΉΞµΟ…ΞΈΟΞ½ΟƒΞµΟ‰Ξ½ Ξ΄ΞΉΞΊΟ„ΟΞΏΟ…"
 
 #, fuzzy
 #~ msgid "at least 1 character"
-#~ msgstr "τουλάχιστον 1 χαρακτήρας"
+#~ msgstr "Ο„ΞΏΟ…Ξ»Ξ¬Ο‡ΞΉΟƒΟ„ΞΏΞ½ 1 Ο‡Ξ±ΟΞ±ΞΊΟ„Ξ®ΟΞ±Ο‚"
 
 #, fuzzy
 #~ msgid "(AT LEAST 2 CARACTERS)"
-#~ msgstr "(ΤΟΥΛΑΧΙΣΤΟΝ 2 ΧΑΡΑΚΤΗΡΕΣ)"
+#~ msgstr "(Ξ¤ΞΞ¥Ξ›Ξ‘Ξ§Ξ™Ξ£Ξ¤ΞΞ 2 Ξ§Ξ‘Ξ΅Ξ‘ΞΞ¤Ξ—Ξ΅Ξ•Ξ£)"
 
 #, fuzzy
 #~ msgid "(NUMBER FORMAT WITH/WITHOUT DECIMAL, use '.' for decimal)"
-#~ msgstr "(ΑΚΕΡΑΙΟΣ 'Η ΔΕΚΑΔΙΚΟΣ ΑΡΙΘΜΟΣ)"
+#~ msgstr "(Ξ‘ΞΞ•Ξ΅Ξ‘Ξ™ΞΞ£ 'Ξ— Ξ”Ξ•ΞΞ‘Ξ”Ξ™ΞΞΞ£ Ξ‘Ξ΅Ξ™ΞΞΞΞ£)"
 
 #, fuzzy
 #~ msgid "You must write something."
-#~ msgstr "Πρέπει να γράψετε κάτι."
+#~ msgstr "Ξ ΟΞ­Ο€ΞµΞΉ Ξ½Ξ± Ξ³ΟΞ¬ΟΞµΟ„Ξµ ΞΊΞ¬Ο„ΞΉ."
 
 #, fuzzy
 #~ msgid "8 characters alphanumeric"
-#~ msgstr "8 αλφαριθμητικοί χαρακτήρες"
+#~ msgstr "8 Ξ±Ξ»Ο†Ξ±ΟΞΉΞΈΞΌΞ·Ο„ΞΉΞΊΞΏΞ― Ο‡Ξ±ΟΞ±ΞΊΟ„Ξ®ΟΞµΟ‚"
 
 #, fuzzy
 #~ msgid "(at least 6 Alphanumeric characters)"
-#~ msgstr "(τουλάχιστον 6 αλφαριθμητικοί χαρακτήρες)"
+#~ msgstr "(Ο„ΞΏΟ…Ξ»Ξ¬Ο‡ΞΉΟƒΟ„ΞΏΞ½ 6 Ξ±Ξ»Ο†Ξ±ΟΞΉΞΈΞΌΞ·Ο„ΞΉΞΊΞΏΞ― Ο‡Ξ±ΟΞ±ΞΊΟ„Ξ®ΟΞµΟ‚)"
 
 #, fuzzy
 #~ msgid "This did is in use by customer id:"
-#~ msgstr "Αυτό το DID είναι σε χρήση από τον πελάτη:"
+#~ msgstr "Ξ‘Ο…Ο„Ο Ο„ΞΏ DID ΞµΞ―Ξ½Ξ±ΞΉ ΟƒΞµ Ο‡ΟΞ®ΟƒΞ· Ξ±Ο€Ο Ο„ΞΏΞ½ Ο€ΞµΞ»Ξ¬Ο„Ξ·:"
 
 #~ msgid "Could not open buddy file"
-#~ msgstr "Δεν μπορώ να ανοίξω το συμπληρωματικό αρχείο"
+#~ msgstr "Ξ”ΞµΞ½ ΞΌΟ€ΞΏΟΟ Ξ½Ξ± Ξ±Ξ½ΞΏΞ―ΞΎΟ‰ Ο„ΞΏ ΟƒΟ…ΞΌΟ€Ξ»Ξ·ΟΟ‰ΞΌΞ±Ο„ΞΉΞΊΟ Ξ±ΟΟ‡ΞµΞ―ΞΏ"
 
 #~ msgid "Impossible to write to the file"
-#~ msgstr "Αδύνατη η εγγραφή στο αρχείο"
+#~ msgstr "Ξ‘Ξ΄ΟΞ½Ξ±Ο„Ξ· Ξ· ΞµΞ³Ξ³ΟΞ±Ο†Ξ® ΟƒΟ„ΞΏ Ξ±ΟΟ‡ΞµΞ―ΞΏ"
 
 #, fuzzy
 #~ msgid "<br> GOTO ; "
-#~ msgstr "<br> ΠΗΓΑΙΝΕ"
+#~ msgstr "<br> Ξ Ξ—Ξ“Ξ‘Ξ™ΞΞ•"
 
 #, fuzzy
 #~ msgid "error deletion"
-#~ msgstr "σφάλμα στην διαγραφή"
+#~ msgstr "ΟƒΟ†Ξ¬Ξ»ΞΌΞ± ΟƒΟ„Ξ·Ξ½ Ξ΄ΞΉΞ±Ξ³ΟΞ±Ο†Ξ®"
 
 #, fuzzy
 #~ msgid "ERROR_DUPLICATION"
-#~ msgstr "ΣΦΑΛΜΑ_ΕΠΑΝΕΜΦΑΝΙΣΗΣ"
+#~ msgstr "Ξ£Ξ¦Ξ‘Ξ›ΞΞ‘_Ξ•Ξ Ξ‘ΞΞ•ΞΞ¦Ξ‘ΞΞ™Ξ£Ξ—Ξ£"
 
 #, fuzzy
 #~ msgid "Done"
-#~ msgstr "Έγινε"
+#~ msgstr "ΞΞ³ΞΉΞ½Ξµ"
 
 #, fuzzy
 #~ msgid "THE CURRENT RATECARD"
-#~ msgstr "ΤΡΕΧΩΝ ΤΙΜΟΚΑΤΑΛΟΓΟΣ"
+#~ msgstr "Ξ¤Ξ΅Ξ•Ξ§Ξ©Ξ Ξ¤Ξ™ΞΞΞΞ‘Ξ¤Ξ‘Ξ›ΞΞ“ΞΞ£"
 
 #, fuzzy
 #~ msgid "R A T E C A R D"
-#~ msgstr "ΤΙΜΟΚΑΤΑΛΟΓΟΣ"
+#~ msgstr "Ξ¤Ξ™ΞΞΞΞ‘Ξ¤Ξ‘Ξ›ΞΞ“ΞΞ£"
 
 #, fuzzy
 #~ msgid "Choose a ratecard"
-#~ msgstr "Επιλέξτε τιμοκατάλογο"
+#~ msgstr "Ξ•Ο€ΞΉΞ»Ξ­ΞΎΟ„Ξµ Ο„ΞΉΞΌΞΏΞΊΞ±Ο„Ξ¬Ξ»ΞΏΞ³ΞΏ"
 
 #, fuzzy
 #~ msgid "Search"
-#~ msgstr "Αναζήτηση"
+#~ msgstr "Ξ‘Ξ½Ξ±Ξ¶Ξ®Ο„Ξ·ΟƒΞ·"
 
 #, fuzzy
 #~ msgid "None"
-#~ msgstr "Κανένα"
+#~ msgstr "ΞΞ±Ξ½Ξ­Ξ½Ξ±"
 
 #, fuzzy
 #~ msgid "RATECARD"
-#~ msgstr "ΤΙΜΟΚΑΤΑΛΟΓΟΣ"
+#~ msgstr "Ξ¤Ξ™ΞΞΞΞ‘Ξ¤Ξ‘Ξ›ΞΞ“ΞΞ£"
 
 #~ msgid "January"
-#~ msgstr "Ιανουάριος"
+#~ msgstr "Ξ™Ξ±Ξ½ΞΏΟ…Ξ¬ΟΞΉΞΏΟ‚"
 
 #~ msgid "February"
-#~ msgstr "Φεβρουάριος"
+#~ msgstr "Ξ¦ΞµΞ²ΟΞΏΟ…Ξ¬ΟΞΉΞΏΟ‚"
 
 #~ msgid "March"
-#~ msgstr "Μάρτιος"
+#~ msgstr "ΞΞ¬ΟΟ„ΞΉΞΏΟ‚"
 
 #~ msgid "April"
-#~ msgstr "Απρίλιος"
+#~ msgstr "Ξ‘Ο€ΟΞ―Ξ»ΞΉΞΏΟ‚"
 
 #~ msgid "May"
-#~ msgstr "Μάιος"
+#~ msgstr "ΞΞ¬ΞΉΞΏΟ‚"
 
 #~ msgid "June"
-#~ msgstr "Ιούνιος"
+#~ msgstr "Ξ™ΞΏΟΞ½ΞΉΞΏΟ‚"
 
 #~ msgid "July"
-#~ msgstr "Ιούλιος"
+#~ msgstr "Ξ™ΞΏΟΞ»ΞΉΞΏΟ‚"
 
 #~ msgid "August"
-#~ msgstr "Αύγουστος"
+#~ msgstr "Ξ‘ΟΞ³ΞΏΟ…ΟƒΟ„ΞΏΟ‚"
 
 #~ msgid "September"
-#~ msgstr "Σεπτέμβριος"
+#~ msgstr "Ξ£ΞµΟ€Ο„Ξ­ΞΌΞ²ΟΞΉΞΏΟ‚"
 
 #~ msgid "October"
-#~ msgstr "Οκτώβριος"
+#~ msgstr "ΞΞΊΟ„ΟΞ²ΟΞΉΞΏΟ‚"
 
 #~ msgid "November"
-#~ msgstr "Νοέμβριος"
+#~ msgstr "ΞΞΏΞ­ΞΌΞ²ΟΞΉΞΏΟ‚"
 
 #~ msgid "From :"
-#~ msgstr "Από:"
+#~ msgstr "Ξ‘Ο€Ο:"
 
 #~ msgid "To :"
-#~ msgstr "Έως:"
+#~ msgstr "ΞΟ‰Ο‚:"
 
 #~ msgid "Exact"
-#~ msgstr "Ακριβής"
+#~ msgstr "Ξ‘ΞΊΟΞΉΞ²Ξ®Ο‚"
 
 #~ msgid "Begins with"
-#~ msgstr "Αρχίζει με"
+#~ msgstr "Ξ‘ΟΟ‡Ξ―Ξ¶ΞµΞΉ ΞΌΞµ"
 
 #, fuzzy
 #~ msgid "There is"
-#~ msgstr "Υπάρχει"
+#~ msgstr "Ξ¥Ο€Ξ¬ΟΟ‡ΞµΞΉ"
 
 #, fuzzy
 #~ msgid ""
 #~ "selected, use the option below if you are willing to make a batch updated "
 #~ "of the selected cards."
-#~ msgstr "επιλογή στο a από."
+#~ msgstr "ΞµΟ€ΞΉΞ»ΞΏΞ³Ξ® ΟƒΟ„ΞΏ a Ξ±Ο€Ο."
 
 #, fuzzy
 #~ msgid "BUYRATE"
-#~ msgstr "ΤΙΜΗ ΑΓΟΡΑΣ"
+#~ msgstr "Ξ¤Ξ™ΞΞ— Ξ‘Ξ“ΞΞ΅Ξ‘Ξ£"
 
 #~ msgid "Add"
-#~ msgstr "Προσθήκη"
+#~ msgstr "Ξ ΟΞΏΟƒΞΈΞ®ΞΊΞ·"
 
 #, fuzzy
 #~ msgid "Substract"
-#~ msgstr "Αφαίρεση"
+#~ msgstr "Ξ‘Ο†Ξ±Ξ―ΟΞµΟƒΞ·"
 
 #, fuzzy
 #~ msgid "RATE INITIAL"
-#~ msgstr "ΒΑΣΙΚΗ ΧΡΕΩΣΗ"
+#~ msgstr "Ξ’Ξ‘Ξ£Ξ™ΞΞ— Ξ§Ξ΅Ξ•Ξ©Ξ£Ξ—"
 
 #, fuzzy
 #~ msgid "MIN DURATION"
-#~ msgstr "ΕΛΑΧΙΣΤΗ ΔΙΑΡΚΕΙΑ"
+#~ msgstr "Ξ•Ξ›Ξ‘Ξ§Ξ™Ξ£Ξ¤Ξ— Ξ”Ξ™Ξ‘Ξ΅ΞΞ•Ξ™Ξ‘"
 
 #, fuzzy
 #~ msgid "BILLINGBLOCK"
-#~ msgstr "ΜΟΝΑΔΑ ΧΡΕΩΣΗΣ"
+#~ msgstr "ΞΞΞΞ‘Ξ”Ξ‘ Ξ§Ξ΅Ξ•Ξ©Ξ£Ξ—Ξ£"
 
 #, fuzzy
 #~ msgid "CONNECTCHARGE"
-#~ msgstr "ΤΕΛΟΣ ΣΥΝΔΕΣΗΣ"
+#~ msgstr "Ξ¤Ξ•Ξ›ΞΞ£ Ξ£Ξ¥ΞΞ”Ξ•Ξ£Ξ—Ξ£"
 
 #, fuzzy
 #~ msgid "DISCONNECTCHARGE"
-#~ msgstr "ΤΕΛΟΣ ΑΠΟΣΥΝΔΕΣΗΣ"
+#~ msgstr "Ξ¤Ξ•Ξ›ΞΞ£ Ξ‘Ξ ΞΞ£Ξ¥ΞΞ”Ξ•Ξ£Ξ—Ξ£"
 
 #, fuzzy
 #~ msgid " BATCH UPDATE RATECARD "
-#~ msgstr "ΜΑΖΙΚΗ ΑΛΛΑΓΗ ΤΙΜΟΚΑΤΑΛΟΓΟΥ "
+#~ msgstr "ΞΞ‘Ξ–Ξ™ΞΞ— Ξ‘Ξ›Ξ›Ξ‘Ξ“Ξ— Ξ¤Ξ™ΞΞΞΞ‘Ξ¤Ξ‘Ξ›ΞΞ“ΞΞ¥ "
 
 #, fuzzy
 #~ msgid "Archiving All "
-#~ msgstr "Αρχειοθέτηση Όλα "
+#~ msgstr "Ξ‘ΟΟ‡ΞµΞΉΞΏΞΈΞ­Ο„Ξ·ΟƒΞ· ΞΞ»Ξ± "
 
 #, fuzzy
 #~ msgid "Sort"
-#~ msgstr "Ταξινόμηση"
+#~ msgstr "Ξ¤Ξ±ΞΎΞΉΞ½ΟΞΌΞ·ΟƒΞ·"
 
 #, fuzzy
 #~ msgid "Records"
-#~ msgstr "Εγγραφές"
+#~ msgstr "Ξ•Ξ³Ξ³ΟΞ±Ο†Ξ­Ο‚"
 
 #, fuzzy
 #~ msgid "FILTER ON "
-#~ msgstr "ΦΙΛΤΡΟ ΣΤΟ"
+#~ msgstr "Ξ¦Ξ™Ξ›Ξ¤Ξ΅Ξ Ξ£Ξ¤Ξ"
 
 #~ msgid "FILTER ON"
-#~ msgstr "ΦΙΛΤΡΟ ΣΤΟ"
+#~ msgstr "Ξ¦Ξ™Ξ›Ξ¤Ξ΅Ξ Ξ£Ξ¤Ξ"
 
 #~ msgid "APPLY FILTER "
-#~ msgstr "ΕΦΑΡΜΟΓΗ ΦΙΛΤΡΟΥ"
+#~ msgstr "Ξ•Ξ¦Ξ‘Ξ΅ΞΞΞ“Ξ— Ξ¦Ξ™Ξ›Ξ¤Ξ΅ΞΞ¥"
 
 #~ msgid "ACTION"
-#~ msgstr "ΕΝΕΡΓΕΙΑ"
+#~ msgstr "Ξ•ΞΞ•Ξ΅Ξ“Ξ•Ξ™Ξ‘"
 
 #~ msgid "Export CSV"
-#~ msgstr "Εξαγωγή CSV"
+#~ msgstr "Ξ•ΞΎΞ±Ξ³Ο‰Ξ³Ξ® CSV"
 
 #~ msgid "Export XML"
-#~ msgstr "Εξαγωγή XML"
+#~ msgstr "Ξ•ΞΎΞ±Ξ³Ο‰Ξ³Ξ® XML"
