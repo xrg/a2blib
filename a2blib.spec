@@ -12,14 +12,13 @@ Group:		Development/PHP
 Source0:	%git_bs_source %{name}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	gettext
-Requires(pre): rpm-helper
-Requires(postun): rpm-helper
-Requires(post): rpm-helper
-Requires(preun): rpm-helper
 Requires:	postgresql >= 8.2.5
 Requires:	php-pgsql
 Requires:	php-gettext
 Requires:	php-gd
+%if %{_target_vendor} == redhat
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+%endif
 
 %description
 MVC framework for PHP, taken from the A2Billing v200 project.
