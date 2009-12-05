@@ -1,4 +1,43 @@
 
+# #-#-#-#-#  bee-plaza.po  #-#-#-#-#
+# #-#-#-#-#  common.po (common)  #-#-#-#-#
+# translation of common.po to Ellhnika
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# P. Christeas <p_christ@hol.gr>, 2009.
+# Jimmy Angelakos <vyruss@hellug.gr>, 2009.
+# Jimmy Angelakos <dangel@beetech.gr>, 2009.
+# P. Christeas <p_christeas@yahoo.com>, 2007, 2008.
+# P. Christeas <p_christ@hol.gr>, 2007.
+msgid ""
+msgstr ""
+"#-#-#-#-#  bee-plaza.po  #-#-#-#-#\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2009-12-02 16:35+0200\n"
+"Last-Translator: Jimmy Angelakos <dangel@beetech.gr>\n"
+"Language-Team: Greek <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 0.3\n"
+"#-#-#-#-#  common.po (common)  #-#-#-#-#\n"
+"Project-Id-Version: common\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-09-07 21:01+0300\n"
+"PO-Revision-Date: 2009-12-02 16:35+0200\n"
+"Last-Translator: Jimmy Angelakos <dangel@beetech.gr>\n"
+"Language-Team: Greek <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+
+#: www/lang-settings.inc.php:3 common/lib/languageSettings.inc.php:31
+msgid "Greek"
+msgstr "Ελληνικά"
+
 #: common/lib/Misc.inc.php:569
 msgid "File size is greater than allowed limit."
 msgstr "Το μέγεθος του αρχείου είναι μεγαλύτερο από το όριο."
