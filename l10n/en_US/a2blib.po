@@ -1,0 +1,474 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: a 2blib\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: a2blib/LangUtils.inc.php:25
+msgid "English"
+msgstr "English"
+
+#: a2blib/LangUtils.inc.php:41
+msgid "English (C)"
+msgstr "English (C)"
+
+#: a2blib/Provi/Class.ProvisionActionForm.inc.php:15
+msgid "Type"
+msgstr "Type"
+
+#: a2blib/Provi/Class.ProvisionActionForm.inc.php:38
+msgid "Invalid type!"
+msgstr "Invalid type!"
+
+#: a2blib/Provi/Class.ProvisionActionForm.inc.php:93
+msgid "Here is your example %1:"
+msgstr "Here is your example %1:"
+
+#: a2blib/Form/Class.VolField.inc.php:36
+#: a2blib/Form/Class.NumField.inc.php:255
+msgid "0 sec"
+msgstr "0 sec"
+
+#: a2blib/Form/Class.TimeField.inc.php:19
+msgid "YYYY-MM-DD HH24:MI:SS TZ"
+msgstr "YYYY-MM-DD HH24:MI:SS TZ"
+
+#: a2blib/Form/Class.TimeField.inc.php:81
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+#: a2blib/Form/Class.ImportView.inc.php:36
+#: a2blib/Form/Class.Import2View.inc.php:37
+msgid "Please, you must first select a file !"
+msgstr "Please, you must first select a file !"
+
+#: a2blib/Form/Class.ImportView.inc.php:186
+msgid ""
+"Use the example below to format the CSV file. Fields are separated by '%1' , "
+"</br>. and , are used for decimal format."
+msgstr ""
+"Use the example below to format the CSV file. Fields are separated by '%1' , "
+"</br>. and , are used for decimal format."
+
+#: a2blib/Form/Class.ImportView.inc.php:191
+msgid "New %1 have to be imported from a CSV file."
+msgstr "New %1 have to be imported from a CSV file."
+
+#: a2blib/Form/Class.ImportView.inc.php:194
+#: a2blib/Form/Class.Import2View.inc.php:51
+msgid "New %1 have to be imported from a file."
+msgstr "New %1 have to be imported from a file."
+
+#: a2blib/Form/Class.ImportView.inc.php:211
+msgid "Common fields"
+msgstr "Common fields"
+
+#: a2blib/Form/Class.ImportView.inc.php:221
+msgid "Mandatory fields"
+msgstr "Mandatory fields"
+
+#: a2blib/Form/Class.ImportView.inc.php:234
+msgid "Optional fields"
+msgstr "Optional fields"
+
+#: a2blib/Form/Class.ImportView.inc.php:239
+msgid "Unselected Fields..."
+msgstr "Unselected Fields..."
+
+#: a2blib/Form/Class.ImportView.inc.php:248
+msgid "Add field"
+msgstr "Add field"
+
+#: a2blib/Form/Class.ImportView.inc.php:250
+msgid "Remove field"
+msgstr "Remove field"
+
+#: a2blib/Form/Class.ImportView.inc.php:253
+msgid "Selected Fields..."
+msgstr "Selected Fields..."
+
+#: a2blib/Form/Class.ImportView.inc.php:258
+msgid "Move up"
+msgstr "Move up"
+
+#: a2blib/Form/Class.ImportView.inc.php:260
+msgid "Move down"
+msgstr "Move down"
+
+#: a2blib/Form/Class.ImportView.inc.php:279
+#: a2blib/Form/Class.Import2View.inc.php:62
+msgid "Upload File"
+msgstr "Upload File"
+
+#: a2blib/Form/Class.ImportView.inc.php:280
+#: a2blib/Form/Class.Import2View.inc.php:63
+msgid "File"
+msgstr "File"
+
+#: a2blib/Form/Class.ImportView.inc.php:283
+#: a2blib/Form/Class.Import2View.inc.php:66
+msgid "The maximum file size is %1 KB"
+msgstr "The maximum file size is %1 KB"
+
+#: a2blib/Form/Class.ImportView.inc.php:291
+#: a2blib/Form/Class.Import2View.inc.php:74
+msgid "Submit"
+msgstr "Submit"
+
+#: a2blib/Form/Class.ImportView.inc.php:293
+#: a2blib/Form/Class.Import2View.inc.php:76
+msgid "Import %1"
+msgstr "Import %1"
+
+#: a2blib/Form/Class.ImportView.inc.php:299
+#: a2blib/Form/Class.Import2View.inc.php:82
+msgid "Examples"
+msgstr "Examples"
+
+#: a2blib/Form/Class.ImportView.inc.php:342
+#: a2blib/Form/Class.Import2View.inc.php:135
+msgid "File has not been posted at all!"
+msgstr "File has not been posted at all!"
+
+#: a2blib/Form/Class.ImportView.inc.php:351
+#: a2blib/Form/Class.Import2View.inc.php:144
+msgid "File size exceeds %1 limit of the system!"
+msgstr "File size exceeds %1 limit of the system!"
+
+#: a2blib/Form/Class.ImportView.inc.php:356
+#: a2blib/Form/Class.Import2View.inc.php:149
+msgid "File size exceeds %1 limit for this action!"
+msgstr "File size exceeds %1 limit for this action!"
+
+#: a2blib/Form/Class.ImportView.inc.php:361
+#: a2blib/Form/Class.Import2View.inc.php:154
+msgid "The uploaded file was only partially uploaded."
+msgstr "The uploaded file was only partially uploaded."
+
+#: a2blib/Form/Class.ImportView.inc.php:366
+#: a2blib/Form/Class.Import2View.inc.php:159
+msgid "No file was uploaded."
+msgstr "No file was uploaded."
+
+#: a2blib/Form/Class.ImportView.inc.php:371
+#: a2blib/Form/Class.ImportView.inc.php:376
+#: a2blib/Form/Class.ImportView.inc.php:381
+#: a2blib/Form/Class.ImportView.inc.php:414
+#: a2blib/Form/Class.ImportView.inc.php:424
+#: a2blib/Form/Class.Import2View.inc.php:164
+#: a2blib/Form/Class.Import2View.inc.php:169
+#: a2blib/Form/Class.Import2View.inc.php:174
+#: a2blib/Form/Class.Import2View.inc.php:196
+#: a2blib/Form/Class.Import2View.inc.php:206
+msgid "Internal error, could not upload."
+msgstr "Internal error, could not upload."
+
+#: a2blib/Form/Class.ImportView.inc.php:388
+#: a2blib/Form/Class.Import2View.inc.php:182
+msgid "Cannot accept file of type %1. Allowed types are: %2."
+msgstr "Cannot accept file of type %1. Allowed types are: %2."
+
+#: a2blib/Form/Class.ImportView.inc.php:402
+msgid "Error in submitted form."
+msgstr "Error in submitted form."
+
+#: a2blib/Form/Class.ImportView.inc.php:450
+#: a2blib/Form/Class.ImportView.inc.php:621
+msgid "Analyzing uploaded data..."
+msgstr "Analyzing uploaded data..."
+
+#: a2blib/Form/Class.ImportView.inc.php:457
+#: a2blib/Form/Class.ImportView.inc.php:628
+#: a2blib/Form/Class.ImportView.inc.php:901
+#: a2blib/Form/Class.Import2View.inc.php:223
+msgid "Error: Cannot open uploaded file"
+msgstr "Error: Cannot open uploaded file"
+
+#: a2blib/Form/Class.ImportView.inc.php:564
+#: a2blib/Form/Class.ImportView.inc.php:718
+msgid "Import these %1"
+msgstr "Import these %1"
+
+#: a2blib/Form/Class.ImportView.inc.php:795
+msgid "Session Error, cannot import!"
+msgstr "Session Error, cannot import!"
+
+#: a2blib/Form/Class.ImportView.inc.php:804
+msgid "Session Error, file vanished!"
+msgstr "Session Error, file vanished!"
+
+#: a2blib/Form/Class.ImportView.inc.php:814
+msgid "Session Error !"
+msgstr "Session Error !"
+
+#: a2blib/Form/Class.ImportView.inc.php:828
+#: a2blib/Form/Class.Import2View.inc.php:215
+msgid "Importing uploaded data..."
+msgstr "Importing uploaded data..."
+
+#: a2blib/Form/Class.ImportView.inc.php:958
+msgid "Database error, cannot import!"
+msgstr "Database error, cannot import!"
+
+#: a2blib/Form/Class.ImportView.inc.php:968
+msgid "Database error, rows not imported!"
+msgstr "Database error, rows not imported!"
+
+#: a2blib/Form/Class.ImportView.inc.php:1008
+msgid "Database error, secondary rows not imported!"
+msgstr "Database error, secondary rows not imported!"
+
+#: a2blib/Form/Class.ImportView.inc.php:1029
+#: a2blib/Form/Class.ImportView.inc.php:1031
+#: a2blib/Form/Class.ImportView.inc.php:1043
+#: a2blib/Form/Class.ImportView.inc.php:1045
+msgid "%1 lines processed: %2 rows"
+msgstr "%1 lines processed: %2 rows"
+
+#: a2blib/Form/Class.ImportView.inc.php:1050
+msgid "Import of data aborted."
+msgstr "Import of data aborted."
+
+#: a2blib/Form/Class.DeleteView.inc.php:17
+msgid "This %1 will be deleted!"
+msgstr "This %1 will be deleted!"
+
+#: a2blib/Form/Class.DeleteView.inc.php:69
+#: a2blib/Form/Class.OptionField.inc.php:72
+#: a2blib/Form/Class.TabField.inc.php:133
+msgid "Delete this %1"
+msgstr "Delete this %1"
+
+#: a2blib/Form/Class.DeleteView.inc.php:132
+#: a2blib/Form/Class.EditView.inc.php:205
+#: a2blib/Form/Class.AddView.inc.php:142
+msgid "Read only. No data has been altered."
+msgstr "Read only. No data has been altered."
+
+#: a2blib/Form/Class.DeleteView.inc.php:147
+msgid "Cannot delete %1, database error."
+msgstr "Cannot delete %1, database error."
+
+#: a2blib/Form/Class.DeleteView.inc.php:154
+msgid "Cannot delete %1, record not found."
+msgstr "Cannot delete %1, record not found."
+
+#: a2blib/Form/Class.DeleteView.inc.php:158
+msgid "Record successfully removed from the database."
+msgstr "Record successfully removed from the database."
+
+#: a2blib/Form/Class.ListSumView.inc.php:98
+#: a2blib/Form/Class.DetailsView.inc.php:124
+#: a2blib/Form/Class.EditView.inc.php:62
+#: a2blib/Form/Class.ListTeXView.inc.php:19
+#: a2blib/Form/Class.ListView.inc.php:105
+#: a2blib/Form/Class.ListCsvView.inc.php:19
+msgid "No %1 found!"
+msgstr "No %1 found!"
+
+#: a2blib/Form/Class.ListSumView.inc.php:105
+msgid "Sum"
+msgstr "Sum"
+
+#: a2blib/Form/Class.RevRef2.inc.php:117 a2blib/Form/Class.RevRef.inc.php:132
+msgid "No data found!"
+msgstr "No data found!"
+
+#: a2blib/Form/Class.RevRef2.inc.php:123 a2blib/Form/Class.RevRef.inc.php:138
+msgid "Action"
+msgstr "Action"
+
+#: a2blib/Form/Class.RevRef2.inc.php:130 a2blib/Form/Class.RevRef.inc.php:147
+#: a2blib/Form/Class.RevRef.inc.php:149
+msgid "Remove this"
+msgstr "Remove this"
+
+#: a2blib/Form/Class.RevRef2.inc.php:154 a2blib/Form/Class.RevRef.inc.php:208
+msgid "No additional data found!"
+msgstr "No additional data found!"
+
+#: a2blib/Form/Class.RevRef2.inc.php:156 a2blib/Form/Class.RevRef.inc.php:210
+msgid "Select one to add.."
+msgstr "Select one to add.."
+
+#: a2blib/Form/Class.RevRef2.inc.php:162 a2blib/Form/Class.RevRef.inc.php:216
+#: a2blib/Form/Class.RevRef.inc.php:282
+msgid "Add this"
+msgstr "Add this"
+
+#: a2blib/Form/Class.RevRef2.inc.php:190 a2blib/Form/Class.RevRef.inc.php:307
+msgid "Cannot insert new %1"
+msgstr "Cannot insert new %1"
+
+#: a2blib/Form/Class.RevRef2.inc.php:203 a2blib/Form/Class.RevRef.inc.php:325
+msgid "Cannot delete %1"
+msgstr "Cannot delete %1"
+
+#: a2blib/Form/Class.FormHelpers.inc.php:14
+msgid "item"
+msgstr "item"
+
+#: a2blib/Form/Class.FormHelpers.inc.php:26
+msgid "Add a new %1"
+msgstr "Add a new %1"
+
+#: a2blib/Form/Class.EditView.inc.php:120
+#: a2blib/Form/Class.TabField.inc.php:83
+msgid "Update this %1"
+msgstr "Update this %1"
+
+#: a2blib/Form/Class.EditView.inc.php:215
+msgid "Cannot update %1, database error."
+msgstr "Cannot update %1, database error."
+
+#: a2blib/Form/Class.EditView.inc.php:222
+msgid "Cannot update %1, record not found."
+msgstr "Cannot update %1, record not found."
+
+#: a2blib/Form/Class.EditView.inc.php:226
+msgid "Data has successfully been updated in the database."
+msgstr "Data has successfully been updated in the database."
+
+#: a2blib/Form/Class.AddView.inc.php:61 a2blib/Form/Class.TabField.inc.php:108
+msgid "Create this %1"
+msgstr "Create this %1"
+
+#: a2blib/Form/Class.AddView.inc.php:152
+msgid "Cannot create new %1, database error."
+msgstr "Cannot create new %1, database error."
+
+#: a2blib/Form/Class.AddView.inc.php:157
+msgid "New data has successfully been inserted into the database."
+msgstr "New data has successfully been inserted into the database."
+
+#: a2blib/Form/Class.SumMultiView.inc.php:228
+#: a2blib/Form/Class.SumMultiView.inc.php:554
+msgid "No sums found!"
+msgstr "No sums found!"
+
+#: a2blib/Form/Class.SumMultiView.inc.php:432
+#: a2blib/Form/Class.ElemGraph.inc.php:649
+#: a2blib/Form/Class.SqlRefField.inc.php:211
+msgid "(none)"
+msgstr "(none)"
+
+#: a2blib/Form/Class.SelectionForm.inc.php:163
+msgid "GO!"
+msgstr "GO!"
+
+#: a2blib/Form/Class.SqlActionForm.inc.php:39
+msgid "database error"
+msgstr "database error"
+
+#: a2blib/Form/Class.SqlActionForm.inc.php:48
+msgid "no rows"
+msgstr "no rows"
+
+#: a2blib/Form/Class.FormHandler.inc.php:329
+msgid "Graph"
+msgstr "Graph"
+
+#: a2blib/Form/Class.RevRef.inc.php:238
+msgid "Could not add!"
+msgstr "Could not add!"
+
+#: a2blib/Form/Class.RevRef.inc.php:241
+msgid "Item added!"
+msgstr "Item added!"
+
+#: a2blib/Form/Class.RevRef.inc.php:254
+msgid "Could not delete!"
+msgstr "Could not delete!"
+
+#: a2blib/Form/Class.RevRef.inc.php:257
+msgid "Item deleted!"
+msgstr "Item deleted!"
+
+#: a2blib/Form/Class.OptionField.inc.php:12
+msgid "Actions"
+msgstr "Actions"
+
+#: a2blib/Form/Class.OptionField.inc.php:56
+#: a2blib/Form/Class.TextField.inc.php:43
+msgid "Edit this %1"
+msgstr "Edit this %1"
+
+#: a2blib/Form/Class.OptionField.inc.php:92
+msgid "Details of %1"
+msgstr "Details of %1"
+
+#: a2blib/Form/Class.ActionForm.inc.php:25
+msgid "Action finished successfully!"
+msgstr "Action finished successfully!"
+
+#: a2blib/Form/Class.ActionForm.inc.php:26
+msgid "Action failed: %1"
+msgstr "Action failed: %1"
+
+#: a2blib/Form/Class.TextSearchField.inc.php:21
+msgid "Ignore"
+msgstr "Ignore"
+
+#: a2blib/Form/Class.TextSearchField.inc.php:24
+msgid "Starts with"
+msgstr "Starts with"
+
+#: a2blib/Form/Class.TextSearchField.inc.php:27
+msgid "Equals"
+msgstr "Equals"
+
+#: a2blib/Form/Class.TextSearchField.inc.php:30
+msgid "Contains"
+msgstr "Contains"
+
+#: a2blib/Form/Class.TextSearchField.inc.php:33
+msgid "Ends in"
+msgstr "Ends in"
+
+#: a2blib/Form/Class.TextField.inc.php:60
+msgid "Details of this %1"
+msgstr "Details of this %1"
+
+#: a2blib/Form/Class.ListView.inc.php:180
+msgid "%1 Rows,"
+msgstr "%1 Rows,"
+
+#: a2blib/Form/Class.ListView.inc.php:182
+msgid "Display"
+msgstr "Display"
+
+#: a2blib/Form/Class.ListView.inc.php:190
+msgid "All"
+msgstr "All"
+
+#: a2blib/Form/Class.ListView.inc.php:192
+msgid "GO"
+msgstr "GO"
+
+#: a2blib/Form/Class.ListView.inc.php:203
+msgid "First"
+msgstr "First"
+
+#: a2blib/Form/Class.ListView.inc.php:204
+msgid "Prev"
+msgstr "Prev"
+
+#: a2blib/Form/Class.ListView.inc.php:239
+msgid "Next"
+msgstr "Next"
+
+#: a2blib/Form/Class.NumField.inc.php:226
+msgid "TRUE"
+msgstr "TRUE"
+
+#: a2blib/Form/Class.NumField.inc.php:228
+msgid "FALSE"
+msgstr "FALSE"
+
+#: a2blib/Form/Class.NumField.inc.php:270
+msgid "Y-m-d H:i:s T"
+msgstr "Y-m-d H:i:s T"
