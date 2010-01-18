@@ -83,6 +83,15 @@ class DateField extends DateTimeField {
 			'\')';
 	}
 
+	public function getDefault() {
+		if(!empty($this->def_date)){
+			$tstamp = strtotime($this->def_date);
+			if ($tstamp !== false)
+				return date('Y-m-d',$tstamp);
+		}
+		return $this->def_value;
+	}
+
 };
 
 /** Time of week field */
