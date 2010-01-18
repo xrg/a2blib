@@ -126,9 +126,7 @@ class SelectionForm extends ElemBase {
 		return $retc;
 	}
 
-	public function Render(){
-		if (!$this->enabled)
-			return;
+	protected function RenderSelect(){
 	?>
 	<form action=<?= $_SERVER['PHP_SELF']?> method=get name="<?= $this->prefix?>Sel" id="<?= $form->prefix ?>Sel">
 	<?php
@@ -168,7 +166,40 @@ class SelectionForm extends ElemBase {
 	</table> </form>
 	<?php
 	}
-	
+
+	protected function RenderDisplay(){
+	?>
+	<table class="selectDisplay" cellspacing="2">
+	<thead><tr><td class="field">&nbsp;</td><td class="value">&nbsp;</td></tr>
+	</thead>
+	<tbody>
+	<?php
+		$row = $this->_dirty_vars;
+		foreach($this->model as $fld){
+			if (!$fld->does_list)
+				continue;
+		?><tr><td class="field"><?php
+				$fld->RenderEditTitle($form);
+		?></td><td class="value"><?php
+				$fld->DispList($row,$this);
+		?></td></tr>
+		<?php
+			}
+	?>
+	</tbody>
+	</table> </form>
+	<?php
+	}
+
+	public function Render(){
+		if (!$this->enabled)
+			return;
+		if ($this->enabled === 2)
+			return $this->RenderDisplay();
+		else
+			return $this->RenderSelect();
+	}
+
 };
 
 ?>
