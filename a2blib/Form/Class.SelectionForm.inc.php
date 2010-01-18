@@ -55,6 +55,15 @@ class SelectionForm extends ElemBase {
 		$this->enabled = $en;
 	}
 	
+	public function getAction(){
+		if ($this->enabled === 2)
+			return 'details';
+		elseif ($this->enabled)
+			return 'edit';
+		else
+			return 'none';
+	}
+	
 	/** Append the clauses to a form.
 	   \param $fparams If true, also set the form to follow the parameters of the 
 	   select form
