@@ -60,5 +60,23 @@ class AddExportButton extends ElemBase {
 	
 };
 
+class PrintButton extends ElemBase {
+	protected $form = null;
+
+	function PrintButton(&$form){
+		$this->form = &$form;
+	}
+
+	function Render(){
+		?>
+		<div>
+		<a href="<?= $_SERVER['PHP_SELF']. 
+			$this->form->gen_GetParams(array('printable'=>'true'))
+			?>"><img src="Images/print.png"> <?= _("Printable version") ?></a>
+		</div>
+		<?php
+	}
+	
+};
 
 ?>
