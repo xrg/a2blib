@@ -8,13 +8,13 @@
 # Jimmy Angelakos <vyruss@hellug.gr>, 2009.
 # Jimmy Angelakos <dangel@beetech.gr>, 2009.
 # P. Christeas <p_christeas@yahoo.com>, 2007, 2008.
-# P. Christeas <p_christ@hol.gr>, 2007.
+# P. Christeas <p_christ@hol.gr>, 2007, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: common\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2007-09-07 21:01+0300\n"
-"PO-Revision-Date: 2009-12-05 19:41+0200\n"
+"PO-Revision-Date: 2010-02-10 12:05+0200\n"
 "Last-Translator: P. Christeas <p_christ@hol.gr>\n"
 "Language-Team: Greek <openerp@lists.hellug.gr>\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +44,11 @@ msgstr "Λάθος τύπος!"
 
 #: a2blib/Provi/Class.ProvisionActionForm.inc.php:93
 msgid "Here is your example %1:"
-msgstr ""
+msgstr "Εδώ είναι ένα παράδειγμα %1:"
+
+#: a2blib/Form/Class.BoolField2.inc.php:13
+msgid "False"
+msgstr "Ψευδές"
 
 #: a2blib/Form/Class.VolField.inc.php:36
 #: a2blib/Form/Class.NumField.inc.php:255
@@ -52,6 +56,7 @@ msgid "0 sec"
 msgstr "0 δευτ."
 
 #: a2blib/Form/Class.TimeField.inc.php:19
+#: a2blib/Form/Class.TimeField2.inc.php:141
 msgid "YYYY-MM-DD HH24:MI:SS TZ"
 msgstr "DD/MM/YYYY HH24:MI:SS TZ"
 
@@ -65,13 +70,13 @@ msgid "Please, you must first select a file !"
 msgstr "Παρακαλώ, πρέπει πρώτα να επιλέξετε ένα αρχείο!"
 
 #: a2blib/Form/Class.ImportView.inc.php:186
-#, fuzzy
 msgid ""
 "Use the example below to format the CSV file. Fields are separated by '%1' , "
 "</br>. and , are used for decimal format."
 msgstr ""
 "Χρησιμοποιήστε το παρακάτω παράδειγμα για μορφοποίηση του αρχείου CSV. Τα "
-"πεδία διαχωρίζονται με '%1' , </br>"
+"πεδία διαχωρίζονται με '%1', </br> ενώ για δεκαδικά ψηφία βάζετε είτε κόμμα "
+"\",\" είτε τελεία \".\"."
 
 #: a2blib/Form/Class.ImportView.inc.php:191
 msgid "New %1 have to be imported from a CSV file."
@@ -79,9 +84,8 @@ msgstr "Τα νέα %1 θα εισαχθούν από αρχείο CSV."
 
 #: a2blib/Form/Class.ImportView.inc.php:194
 #: a2blib/Form/Class.Import2View.inc.php:51
-#, fuzzy
 msgid "New %1 have to be imported from a file."
-msgstr "Τα νέα %1 θα εισαχθούν από αρχείο CSV."
+msgstr "Νέα %1 θα εισαχθούν από αρχείο."
 
 #: a2blib/Form/Class.ImportView.inc.php:211
 msgid "Common fields"
@@ -338,6 +342,10 @@ msgstr "στοιχείο"
 msgid "Add a new %1"
 msgstr "Προσθήκη νέου στοιχείου: %1"
 
+#: a2blib/Form/Class.FormHelpers.inc.php:75
+msgid "Printable version"
+msgstr "Μορφή για εκτύπωση"
+
 #: a2blib/Form/Class.EditView.inc.php:120
 #: a2blib/Form/Class.TabField.inc.php:83
 msgid "Update this %1"
@@ -378,7 +386,7 @@ msgstr "Δε βρέθηκαν αθροίσματα!"
 msgid "(none)"
 msgstr "(κανένα)"
 
-#: a2blib/Form/Class.SelectionForm.inc.php:163
+#: a2blib/Form/Class.SelectionForm.inc.php:170
 msgid "GO!"
 msgstr "ΠΗΓΑΙΝΕ!"
 
@@ -452,6 +460,7 @@ msgid "Ends in"
 msgstr "Τελειώνει σε"
 
 #: a2blib/Form/Class.TextField.inc.php:60
+#: a2blib/Form/Class.PKeyField.inc.php:118
 msgid "Details of this %1"
 msgstr "Λεπτομέρειες του στοιχείου: %1"
 
@@ -494,6 +503,14 @@ msgstr "ΨΕΥΔΕΣ"
 #: a2blib/Form/Class.NumField.inc.php:270
 msgid "Y-m-d H:i:s T"
 msgstr "d/m/Y H:i:s T"
+
+#: a2blib/Form/Class.TimeField2.inc.php:84
+msgid "From:"
+msgstr "Από:"
+
+#: a2blib/Form/Class.TimeField2.inc.php:86
+msgid "To:"
+msgstr "Έως:"
 
 #~ msgid "Greek"
 #~ msgstr "Ελληνικά"
@@ -1072,12 +1089,6 @@ msgstr "d/m/Y H:i:s T"
 
 #~ msgid "November"
 #~ msgstr "Νοέμβριος"
-
-#~ msgid "From :"
-#~ msgstr "Από:"
-
-#~ msgid "To :"
-#~ msgstr "Έως:"
 
 #~ msgid "Exact"
 #~ msgstr "Ακριβής"

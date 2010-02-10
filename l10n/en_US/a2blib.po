@@ -28,12 +28,18 @@ msgstr "Invalid type!"
 msgid "Here is your example %1:"
 msgstr "Here is your example %1:"
 
+#: a2blib/Form/Class.BoolField2.inc.php:13
+#, fuzzy
+msgid "False"
+msgstr "File"
+
 #: a2blib/Form/Class.VolField.inc.php:36
 #: a2blib/Form/Class.NumField.inc.php:255
 msgid "0 sec"
 msgstr "0 sec"
 
 #: a2blib/Form/Class.TimeField.inc.php:19
+#: a2blib/Form/Class.TimeField2.inc.php:141
 msgid "YYYY-MM-DD HH24:MI:SS TZ"
 msgstr "YYYY-MM-DD HH24:MI:SS TZ"
 
@@ -316,6 +322,10 @@ msgstr "item"
 msgid "Add a new %1"
 msgstr "Add a new %1"
 
+#: a2blib/Form/Class.FormHelpers.inc.php:75
+msgid "Printable version"
+msgstr ""
+
 #: a2blib/Form/Class.EditView.inc.php:120
 #: a2blib/Form/Class.TabField.inc.php:83
 msgid "Update this %1"
@@ -356,7 +366,7 @@ msgstr "No sums found!"
 msgid "(none)"
 msgstr "(none)"
 
-#: a2blib/Form/Class.SelectionForm.inc.php:163
+#: a2blib/Form/Class.SelectionForm.inc.php:170
 msgid "GO!"
 msgstr "GO!"
 
@@ -430,6 +440,7 @@ msgid "Ends in"
 msgstr "Ends in"
 
 #: a2blib/Form/Class.TextField.inc.php:60
+#: a2blib/Form/Class.PKeyField.inc.php:118
 msgid "Details of this %1"
 msgstr "Details of this %1"
 
@@ -472,3 +483,11 @@ msgstr "FALSE"
 #: a2blib/Form/Class.NumField.inc.php:270
 msgid "Y-m-d H:i:s T"
 msgstr "Y-m-d H:i:s T"
+
+#: a2blib/Form/Class.TimeField2.inc.php:84
+msgid "From:"
+msgstr ""
+
+#: a2blib/Form/Class.TimeField2.inc.php:86
+msgid "To:"
+msgstr ""
