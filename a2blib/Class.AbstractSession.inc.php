@@ -15,6 +15,8 @@ abstract class AbstractSession {
 			// Note: Do NOT put untrusted data into currency!
 	public $currency ; ///< The \b display currency. May be altered by the GUI.
 
+	abstract static function &instance();
+	
 	public function load_res_dbsettings($fname, $dbtype = 'postgres'){
 		if (!file_exists($fname))
 			return false;
@@ -74,7 +76,7 @@ abstract class AbstractSession {
 	 If it doesn't exist, connect to the db and get it.. */
 	public static function &DBHandle() {
 		if (! self::$the_instance)
-			self::instance();
+			static::instance();
 		return self::$the_instance->DBHandle_p();
 	}
 	
