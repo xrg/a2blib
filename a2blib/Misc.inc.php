@@ -20,8 +20,6 @@ function sanitize_data($data)
 	return $data;
 }
 
-
-
 /** Return a single variable from the post/get data */
 function getpost_single($vname)
 {
